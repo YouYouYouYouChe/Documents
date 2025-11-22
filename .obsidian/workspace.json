@@ -175,7 +175,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef86900ed696ff26",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
     "Java8GuWen.md",
     "未命名.base",
