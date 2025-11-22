@@ -11,14 +11,12 @@
             "id": "4be9e23a482e2a5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Java8GuWen.md",
-                "mode": "source",
-                "source": false
+                "file": "BES/实例健康度/健康度功能类图.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Java8GuWen"
+              "icon": "lucide-image",
+              "title": "健康度功能类图"
             }
           }
         ]
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java8GuWen.md",
+                "file": "BES/实例健康度/健康度功能类图.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java8GuWen 的大纲"
+              "title": "健康度功能类图 的大纲"
             }
           },
           {
@@ -194,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9e31783a7fbe62",
+  "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
+    "Java8GuWen.md",
     "BES/实例健康度/健康度功能时序图.jpg",
     "BES/实例健康度/健康度功能类图.jpg",
-    "Java8GuWen.md",
     "BES/实例健康度",
     "BES",
     "未命名.base",
