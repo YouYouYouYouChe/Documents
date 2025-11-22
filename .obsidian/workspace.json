@@ -11,12 +11,14 @@
             "id": "4be9e23a482e2a5b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "BES/实例健康度/健康度功能类图.jpg"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "健康度功能类图"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 284.5
   },
   "right": {
     "id": "605fc65be133429d",
@@ -92,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BES/实例健康度/健康度功能类图.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "健康度功能类图 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -107,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java8GuWen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Java8GuWen 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
