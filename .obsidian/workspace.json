@@ -11,14 +11,14 @@
             "id": "4be9e23a482e2a5b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "BES/实例健康度/实例健康度功能.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "实例健康度功能"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BES/实例健康度/实例健康度功能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "实例健康度功能 的大纲"
             }
           },
           {
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BES/实例健康度/实例健康度功能.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "实例健康度功能 的反向链接列表"
             }
           },
           {
@@ -173,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,7 @@
   "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
     "Java8GuWen.md",
+    "BES/实例健康度/实例健康度功能.md",
     "BES/实例健康度/健康度功能时序图.jpg",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度",
