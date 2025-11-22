@@ -175,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9e31783a7fbe62",
+  "active": "d2b83a7f75933645",
   "lastOpenFiles": [
+    "未命名",
     "Java8GuWen.md",
     "未命名.base",
     "手机测试.md",
@@ -206,7 +206,6 @@
     "assets",
     "Pasted image 20251121232730.png",
     "新建 文本文档.txt",
-    "新建文件夹",
-    "未命名"
+    "新建文件夹"
   ]
 }
