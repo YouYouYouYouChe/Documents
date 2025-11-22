@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计.md",
+                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实例健康度检测详细设计"
+              "title": "实例健康度检测详细设计文档"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计.md",
+                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实例健康度检测详细设计 的大纲"
+              "title": "实例健康度检测详细设计文档 的大纲"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计.md",
+                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实例健康度检测详细设计 的反向链接列表"
+              "title": "实例健康度检测详细设计文档 的反向链接列表"
             }
           },
           {
@@ -196,7 +196,7 @@
   "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
     "Java8GuWen.md",
-    "BES/实例健康度/实例健康度检测详细设计.md",
+    "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/健康度功能时序图.jpg",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度",
