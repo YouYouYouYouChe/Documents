@@ -175,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be9e23a482e2a5b",
+  "active": "ef86900ed696ff26",
   "lastOpenFiles": [
     "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
