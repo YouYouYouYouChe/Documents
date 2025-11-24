@@ -11,14 +11,14 @@
             "id": "4be9e23a482e2a5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
-                "mode": "source",
-                "source": false
+                "aFile": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "bFile": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "实例健康度检测详细设计文档"
+              "icon": "diff",
+              "title": "Diff: 实例健康度检测详细设计文档"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 304.5
   },
   "right": {
     "id": "605fc65be133429d",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "file": "Java8GuWen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实例健康度检测详细设计文档 的大纲"
+              "title": "Java8GuWen 的大纲"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "file": "Java8GuWen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实例健康度检测详细设计文档 的反向链接列表"
+              "title": "Java8GuWen 的反向链接列表"
             }
           },
           {
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +195,9 @@
   },
   "active": "ef86900ed696ff26",
   "lastOpenFiles": [
+    "Java8GuWen.md",
+    "BES/实例健康度/健康度功能类图.jpg",
+    "BES/实例健康度/健康度功能时序图.jpg",
     "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
@@ -204,9 +207,6 @@
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122160921776.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档",
     "BES/实例健康度/assets",
-    "Java8GuWen.md",
-    "BES/实例健康度/健康度功能时序图.jpg",
-    "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度",
     "BES",
     "未命名.base",
@@ -218,6 +218,7 @@
     "assets",
     "Pasted image 20251121232730.png",
     "新建 文本文档.txt",
-    "新建文件夹"
+    "新建文件夹",
+    "未命名"
   ]
 }
