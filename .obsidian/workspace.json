@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be9e23a482e2a5b",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251126100620822.jpg",
-    "BES/实例健康度/健康度功能时序图.jpg",
     "Java8GuWen.md",
-    "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/健康度功能类图.jpg",
+    "BES/实例健康度/健康度功能时序图.jpg",
+    "BES/多租户",
+    "BES/实例健康度/实例健康度检测详细设计文档.md",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251126100620822.jpg",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125211815916.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
@@ -208,7 +209,6 @@
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161247147.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161136919.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161128988.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122160921776.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档",
     "BES/实例健康度/assets",
     "BES/实例健康度",
