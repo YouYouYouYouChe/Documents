@@ -175,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,9 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9e31783a7fbe62",
+  "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
     "BES/实例健康度/实例健康度检测详细设计文档.md",
+    "Java8GuWen.md",
     "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210114835153.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103744949.png",
@@ -207,7 +207,6 @@
     "BES/连接器应用支持编辑资源适配器属性",
     "未命名",
     "BES/月度绩效",
-    "Java8GuWen.md",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度/健康度功能时序图.jpg",
     "BES/多租户",
