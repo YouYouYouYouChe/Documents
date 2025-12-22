@@ -175,7 +175,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be9e23a482e2a5b",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
     "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
