@@ -175,7 +175,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be9e23a482e2a5b",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
     "Java8GuWen.md",
     "BES/月度绩效/2025-12（11.21-12.20）.md",
