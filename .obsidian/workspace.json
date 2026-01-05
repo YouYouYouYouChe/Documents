@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+                "file": "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "连接器应用支持编辑资源适配器属性详细设计文档"
+              "title": "应用增量更新支持 CLI 命令"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+                "file": "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "连接器应用支持编辑资源适配器属性详细设计文档 的大纲"
+              "title": "应用增量更新支持 CLI 命令 的大纲"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+                "file": "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "连接器应用支持编辑资源适配器属性详细设计文档 的反向链接列表"
+              "title": "应用增量更新支持 CLI 命令 的反向链接列表"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+                "file": "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "连接器应用支持编辑资源适配器属性详细设计文档 的出链列表"
+              "title": "应用增量更新支持 CLI 命令 的出链列表"
             }
           },
           {
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9e31783a7fbe62",
+  "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
+    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
     "BES/增量更新支持CLI命令",
     "BES/实例健康度/实例健康度检测详细设计文档.md",
-    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161247147.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
@@ -220,7 +221,6 @@
     "BES/实例健康度/assets/实例健康度检测详细设计文档",
     "BES/实例健康度/assets",
     "BES/实例健康度",
-    "BES",
     "手机测试.md",
     "未命名.md",
     "Test.md"
