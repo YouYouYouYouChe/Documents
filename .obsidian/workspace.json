@@ -104,12 +104,22 @@
             }
           },
           {
+            "id": "be9e31783a7fbe62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "b885fcb05f7b0d08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实例健康度检测详细设计文档 的反向链接列表"
+              "title": "连接器应用支持编辑资源适配器属性详细设计文档 的反向链接列表"
             }
           },
           {
@@ -128,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java8GuWen.md",
+                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Java8GuWen 的出链列表"
+              "title": "连接器应用支持编辑资源适配器属性详细设计文档 的出链列表"
             }
           },
           {
@@ -164,19 +174,9 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "be9e31783a7fbe62",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2b83a7f75933645",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
     "BES/增量更新支持CLI命令",
     "BES/实例健康度/实例健康度检测详细设计文档.md",
