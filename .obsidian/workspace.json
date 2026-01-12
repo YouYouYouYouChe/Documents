@@ -11,12 +11,14 @@
             "id": "4be9e23a482e2a5b",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "BES/增量更新支持CLI命令/增量更新支持CLI.drawio"
+                "file": "BES/部署应用增加附加类库/部署应用增加附加类库.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "增量更新支持CLI.drawio"
+              "title": "部署应用增加附加类库"
             }
           }
         ]
@@ -194,12 +196,13 @@
   },
   "active": "4be9e23a482e2a5b",
   "lastOpenFiles": [
+    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
     "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
     "BES/增量更新支持CLI命令/增量更新支持CLI.drawio",
+    "BES/实例健康度/实例健康度检测详细设计文档.md",
+    "BES/部署应用增加附加类库/部署应用增加附加类库.md",
     "BES/月度绩效/2025-12（11.21-12.20）.md",
     "BES/部署应用增加附加类库",
-    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
-    "BES/实例健康度/实例健康度检测详细设计文档.md",
     "Java8GuWen.md",
     "BES/月度绩效/2025-11（10.20-11.20）.md",
     "BES/增量更新支持CLI命令",
