@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6d48962820da1e",
+        "id": "3a564d1c0d1d8d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "04ac1b7d6c7e0216",
+            "id": "2ae2ecfe75f2b5b3",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04ac1b7d6c7e0216",
+  "active": "2ae2ecfe75f2b5b3",
   "lastOpenFiles": [
     "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
     "conflict-files-obsidian-git.md",
