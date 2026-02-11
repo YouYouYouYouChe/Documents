@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "BES/实例健康度/实例健康度检测详细设计文档.md",
-                "bFile": "BES/实例健康度/实例健康度检测详细设计文档.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 实例健康度检测详细设计文档"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java8GuWen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java8GuWen 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be9e23a482e2a5b",
+  "active": "be9e31783a7fbe62",
   "lastOpenFiles": [
     "Java8GuWen.md",
     "BES/实例健康度/健康度功能类图.jpg",
