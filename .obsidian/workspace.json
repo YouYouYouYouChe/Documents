@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e1fc87dba31aae",
+        "id": "fb6d48962820da1e",
         "type": "tabs",
         "children": [
           {
-            "id": "4be9e23a482e2a5b",
+            "id": "04ac1b7d6c7e0216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "连接器应用支持编辑资源适配器属性详细设计文档"
+            }
+          },
+          {
+            "id": "abbe84939067cf9e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "89e7b6b2cb61054a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "cc245c7597cbae88",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -21,7 +63,8 @@
               "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,32 +236,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9e31783a7fbe62",
+  "active": "cc245c7597cbae88",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+    "BES/部署应用增加附加类库/部署应用增加附加类库.md",
+    "BES/部署应用增加附加类库",
+    "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210114835153.png",
+    "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103744949.png",
+    "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103727396.png",
+    "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档",
+    "BES/连接器应用支持编辑资源适配器属性/assets",
+    "BES/连接器应用支持编辑资源适配器属性",
+    "BES/月度绩效/2026-01（12.21-01.20）.md",
+    "BES/月度绩效/2025-12（11.21-12.20）.md",
+    "BES/月度绩效/2025-11（10.20-11.20）.md",
+    "BES/月度绩效",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251126100620822.jpg",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125211815916.png",
+    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
+    "BES/增量更新支持CLI命令/增量更新支持CLI.drawio",
+    "BES/增量更新支持CLI命令",
     "Java8GuWen.md",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度/健康度功能时序图.jpg",
     "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161247147.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161136919.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161128988.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122160921776.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档",
     "BES/实例健康度/assets",
     "BES/实例健康度",
-    "BES",
-    "未命名.base",
     "手机测试.md",
     "未命名.md",
-    "assets/Test/file-20251121233039116.png",
-    "Test.md",
-    "assets/Test",
-    "assets",
-    "Pasted image 20251121232730.png",
-    "新建 文本文档.txt",
-    "新建文件夹",
-    "未命名"
+    "Test.md"
   ]
 }
