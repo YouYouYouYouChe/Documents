@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3a564d1c0d1d8d9a",
+        "id": "45000a8851247141",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae2ecfe75f2b5b3",
+            "id": "727aacc3c096199f",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".gitignore",
                 "bFile": ".gitignore",
-                "aRef": ""
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
               "title": "Diff: .gitignore"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 301.5
   },
   "right": {
     "id": "605fc65be133429d",
@@ -94,12 +95,23 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BES/月度绩效/2025-12（11.21-12.20）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025-12（11.21-12.20） 的大纲"
+            }
+          },
+          {
+            "id": "be9e31783a7fbe62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java8GuWen.md",
+                "file": "BES/月度绩效/2025-12（11.21-12.20）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Java8GuWen 的反向链接列表"
+              "title": "2025-12（11.21-12.20） 的反向链接列表"
             }
           },
           {
@@ -127,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java8GuWen.md",
+                "file": "BES/月度绩效/2025-12（11.21-12.20）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Java8GuWen 的出链列表"
+              "title": "2025-12（11.21-12.20） 的出链列表"
             }
           },
           {
@@ -163,67 +175,58 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "be9e31783a7fbe62",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ae2ecfe75f2b5b3",
+  "active": "727aacc3c096199f",
   "lastOpenFiles": [
-    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
     "conflict-files-obsidian-git.md",
+    "员工自评表.xlsx",
+    "任职资格评审ppt模板（研发最新）.pptx",
+    "BES/实例健康度/实例健康度检测详细设计文档.md",
+    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
+    "BES/appguard替换日志框架/appguard替换日志框架.md",
+    "BES/月度绩效/2026-01（12.21-01.20）.md",
+    "BES/appguard替换日志框架",
+    "BES/月度绩效/2025-12（11.21-12.20）.md",
+    "BES/月度绩效/2025-11（10.20-11.20）.md",
+    "Java8GuWen.md",
     "BES/部署应用增加附加类库/部署应用增加附加类库.md",
+    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+    "BES/增量更新支持CLI命令/增量更新支持CLI.drawio",
     "BES/部署应用增加附加类库",
+    "BES/增量更新支持CLI命令",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161247147.png",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161128988.png",
+    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122160921776.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210114835153.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103744949.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103727396.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档",
     "BES/连接器应用支持编辑资源适配器属性/assets",
     "BES/连接器应用支持编辑资源适配器属性",
-    "BES/月度绩效/2026-01（12.21-01.20）.md",
-    "BES/月度绩效/2025-12（11.21-12.20）.md",
-    "BES/月度绩效/2025-11（10.20-11.20）.md",
-    "BES/月度绩效",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251126100620822.jpg",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125211815916.png",
-    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
-    "BES/增量更新支持CLI命令/增量更新支持CLI.drawio",
-    "BES/增量更新支持CLI命令",
-    "Java8GuWen.md",
+    "未命名",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度/健康度功能时序图.jpg",
-    "BES/实例健康度/实例健康度检测详细设计文档.md",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
-    "BES/实例健康度/assets/实例健康度检测详细设计文档",
-    "BES/实例健康度/assets",
-    "BES/实例健康度",
     "手机测试.md",
     "未命名.md",
     "Test.md"
