@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a564d1c0d1d8d9a",
+        "id": "b020af773a664c4d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae2ecfe75f2b5b3",
+            "id": "7bd2fbc39f0d7911",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "BES/部署应用增加附加类库/部署应用增加附加类库.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "部署应用增加附加类库"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BES/部署应用增加附加类库/部署应用增加附加类库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "部署应用增加附加类库 的大纲"
             }
           },
           {
@@ -183,21 +184,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ae2ecfe75f2b5b3",
+  "active": "7bd2fbc39f0d7911",
   "lastOpenFiles": [
-    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
-    "conflict-files-obsidian-git.md",
+    "BES/月度绩效/2025-11（10.20-11.20）.md",
+    "BES/月度绩效/2026-01（12.21-01.20）.md",
     "BES/部署应用增加附加类库/部署应用增加附加类库.md",
+    "BES/连接器应用支持编辑资源适配器属性/连接器应用支持编辑资源适配器属性详细设计文档.md",
+    "BES/实例健康度/实例健康度检测详细设计文档.md",
+    "BES/月度绩效/2025-12（11.21-12.20）.md",
+    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
+    "Java8GuWen.md",
+    "conflict-files-obsidian-git.md",
     "BES/部署应用增加附加类库",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210114835153.png",
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档/file-20251210103744949.png",
@@ -205,20 +212,14 @@
     "BES/连接器应用支持编辑资源适配器属性/assets/连接器应用支持编辑资源适配器属性详细设计文档",
     "BES/连接器应用支持编辑资源适配器属性/assets",
     "BES/连接器应用支持编辑资源适配器属性",
-    "BES/月度绩效/2026-01（12.21-01.20）.md",
-    "BES/月度绩效/2025-12（11.21-12.20）.md",
-    "BES/月度绩效/2025-11（10.20-11.20）.md",
     "BES/月度绩效",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251126100620822.jpg",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125212423325.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251125211815916.png",
-    "BES/增量更新支持CLI命令/应用增量更新支持 CLI 命令.md",
     "BES/增量更新支持CLI命令/增量更新支持CLI.drawio",
     "BES/增量更新支持CLI命令",
-    "Java8GuWen.md",
     "BES/实例健康度/健康度功能类图.jpg",
     "BES/实例健康度/健康度功能时序图.jpg",
-    "BES/实例健康度/实例健康度检测详细设计文档.md",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161322603.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档/file-20251122161254957.png",
     "BES/实例健康度/assets/实例健康度检测详细设计文档",
