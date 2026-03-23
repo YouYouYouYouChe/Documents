@@ -58,7 +58,7 @@
         <mxCell id="KbBqdb7Pet3R9t0zERPO-111" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KbBqdb7Pet3R9t0zERPO-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbBqdb7Pet3R9t0zERPO-112" connectable="0" parent="KbBqdb7Pet3R9t0zERPO-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="send http connection" vertex="1">
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-112" connectable="0" parent="KbBqdb7Pet3R9t0zERPO-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="send&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to DMS&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0968" y="5" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
