@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="第 1 页" id="y0EPm8ZoAGaiSRphZrJW">
+    <mxGraphModel dx="1570" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="CLI / Main" vertex="1">
+          <mxGeometry height="52" width="140" x="380" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-2" parent="KbBqdb7Pet3R9t0zERPO-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ main()" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Abstract CliCommand&lt;/i&gt;" vertex="1">
+          <mxGeometry height="130" width="170" x="158" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-6" parent="KbBqdb7Pet3R9t0zERPO-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excute()" vertex="1">
+          <mxGeometry height="26" width="170" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-7" parent="KbBqdb7Pet3R9t0zERPO-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ initiallize()" vertex="1">
+          <mxGeometry height="26" width="170" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-8" parent="KbBqdb7Pet3R9t0zERPO-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ prepare()" vertex="1">
+          <mxGeometry height="26" width="170" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-10" parent="KbBqdb7Pet3R9t0zERPO-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;i&gt;+ abstract excuteCommand()&lt;/i&gt;" vertex="1">
+          <mxGeometry height="26" width="170" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-19" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="CommandFactory" vertex="1">
+          <mxGeometry height="138" width="270" x="530" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-20" parent="KbBqdb7Pet3R9t0zERPO-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Map&amp;lt;String, CommandDescriptor&amp;gt; descriptor" vertex="1">
+          <mxGeometry height="26" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-21" parent="KbBqdb7Pet3R9t0zERPO-19" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-22" parent="KbBqdb7Pet3R9t0zERPO-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ getCommandDesciptor()" vertex="1">
+          <mxGeometry height="26" width="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-26" parent="KbBqdb7Pet3R9t0zERPO-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ getCLICommand()" vertex="1">
+          <mxGeometry height="26" width="270" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-27" parent="KbBqdb7Pet3R9t0zERPO-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ getCommandName()" vertex="1">
+          <mxGeometry height="26" width="270" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-56" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KbBqdb7Pet3R9t0zERPO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-29" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span style=&quot;text-align: left;&quot;&gt;CommandDescriptor&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(配置文件)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="920" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-38" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="SuperAdminLoginCommand" vertex="1">
+          <mxGeometry height="52" width="160" x="160" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-58" parent="KbBqdb7Pet3R9t0zERPO-38" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excuteCommand()" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-111" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KbBqdb7Pet3R9t0zERPO-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-112" connectable="0" parent="KbBqdb7Pet3R9t0zERPO-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="send http connection" vertex="1">
+          <mxGeometry relative="1" x="-0.0968" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-42" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="CliRemoteCommand" vertex="1">
+          <mxGeometry height="78" width="160" x="510" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-43" parent="KbBqdb7Pet3R9t0zERPO-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excuteCommand()" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-44" parent="KbBqdb7Pet3R9t0zERPO-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ sendRemoteCommand()" vertex="1">
+          <mxGeometry height="26" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-46" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.495;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-47" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-48" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-49" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="52" width="140" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-59" parent="KbBqdb7Pet3R9t0zERPO-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excuteCommand()" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-53" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-54" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-55" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-61" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="StartSeverCommand" vertex="1">
+          <mxGeometry height="52" width="140" x="10" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-62" parent="KbBqdb7Pet3R9t0zERPO-61" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excuteCommand()" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-113" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KbBqdb7Pet3R9t0zERPO-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-68" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="AdminCommandServlet" vertex="1">
+          <mxGeometry height="84" width="140" x="520" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-69" parent="KbBqdb7Pet3R9t0zERPO-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ service()" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-70" parent="KbBqdb7Pet3R9t0zERPO-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excuteCommand()" vertex="1">
+          <mxGeometry height="32" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-116" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.501;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-117" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.497;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-73" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;abstract BaseAdminCommand&lt;/b&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="156" width="190" x="495" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-74" parent="KbBqdb7Pet3R9t0zERPO-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ excute()" vertex="1">
+          <mxGeometry height="26" width="190" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-75" parent="KbBqdb7Pet3R9t0zERPO-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ lock()" vertex="1">
+          <mxGeometry height="26" width="190" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-76" parent="KbBqdb7Pet3R9t0zERPO-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ validate()" vertex="1">
+          <mxGeometry height="26" width="190" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-77" parent="KbBqdb7Pet3R9t0zERPO-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;i&gt;+ abstract doExecute()&lt;/i&gt;" vertex="1">
+          <mxGeometry height="26" width="190" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-87" parent="KbBqdb7Pet3R9t0zERPO-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;i&gt;+ abstract prepareHandlers()&lt;/i&gt;" vertex="1">
+          <mxGeometry height="26" width="190" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-88" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;DeployApplicationCommand&lt;/span&gt;" vertex="1">
+          <mxGeometry height="138" width="300" x="85" y="824" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-89" parent="KbBqdb7Pet3R9t0zERPO-88" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ PriorityQueue&amp;lt;RemoteCommandHandler&amp;gt; handlers" vertex="1">
+          <mxGeometry height="26" width="300" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-90" parent="KbBqdb7Pet3R9t0zERPO-88" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="300" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-91" parent="KbBqdb7Pet3R9t0zERPO-88" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ prepareHandlers()" vertex="1">
+          <mxGeometry height="26" width="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-92" parent="KbBqdb7Pet3R9t0zERPO-88" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ addHanlder()" vertex="1">
+          <mxGeometry height="26" width="300" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-93" parent="KbBqdb7Pet3R9t0zERPO-88" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ doExecute()" vertex="1">
+          <mxGeometry height="26" width="300" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-98" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;StartApplicationCommand&lt;/span&gt;" vertex="1">
+          <mxGeometry height="138" width="306" x="439" y="828" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-99" parent="KbBqdb7Pet3R9t0zERPO-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ PriorityQueue&amp;lt;RemoteCommandHandler&amp;gt; handlers" vertex="1">
+          <mxGeometry height="26" width="306" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-100" parent="KbBqdb7Pet3R9t0zERPO-98" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="306" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-101" parent="KbBqdb7Pet3R9t0zERPO-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ prepareHandlers()" vertex="1">
+          <mxGeometry height="26" width="306" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-102" parent="KbBqdb7Pet3R9t0zERPO-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ addHanlder()" vertex="1">
+          <mxGeometry height="26" width="306" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-103" parent="KbBqdb7Pet3R9t0zERPO-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ doExecute()" vertex="1">
+          <mxGeometry height="26" width="306" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-104" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;...&lt;/span&gt;" vertex="1">
+          <mxGeometry height="138" width="300" x="811" y="826" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-105" parent="KbBqdb7Pet3R9t0zERPO-104" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ PriorityQueue&amp;lt;RemoteCommandHandler&amp;gt; handlers" vertex="1">
+          <mxGeometry height="26" width="300" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-106" parent="KbBqdb7Pet3R9t0zERPO-104" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="300" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-107" parent="KbBqdb7Pet3R9t0zERPO-104" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ prepareHandlers()" vertex="1">
+          <mxGeometry height="26" width="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-108" parent="KbBqdb7Pet3R9t0zERPO-104" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ addHanlder()" vertex="1">
+          <mxGeometry height="26" width="300" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-109" parent="KbBqdb7Pet3R9t0zERPO-104" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ doExecute()" vertex="1">
+          <mxGeometry height="26" width="300" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="KbBqdb7Pet3R9t0zERPO-115" edge="1" parent="1" source="KbBqdb7Pet3R9t0zERPO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" target="KbBqdb7Pet3R9t0zERPO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
