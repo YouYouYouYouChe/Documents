@@ -11,3 +11,4 @@ BES 各个模块
 类加载流程
 
 
+当一个 Web 应用需要加载一个类（比如第一次访问 Servlet）时， 会通过 **WebAppClassLoader** 来执行加载
