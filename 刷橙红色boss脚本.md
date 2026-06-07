@@ -26,7 +26,7 @@
 
 
 
-
+![](assets/刷橙红色boss脚本/file-20260607202653985.png)
 ![192](assets/刷橙红色boss脚本/file-20260607202435372.png)
 ![337](assets/刷橙红色boss脚本/file-20260607202451547.png)
 ![377](assets/刷橙红色boss脚本/file-20260607202506246.png)
