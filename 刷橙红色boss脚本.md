@@ -58,3 +58,4 @@
 ![377](assets/刷橙红色boss脚本/file-20260607202506246.png)
 ![163](assets/刷橙红色boss脚本/file-20260607202529588.png)
 ![301](assets/刷橙红色boss脚本/file-20260607203743864.png)
+![](assets/刷橙红色boss脚本/file-20260619185057289.png)
