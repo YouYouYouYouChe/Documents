@@ -9,5 +9,5 @@
 | ==6== | ==CVE-2026-65183== | Tomcat Unix 域套接字权限设置 TOCTOU 竞争条件漏洞         | 低危  | /                                                                            | 否     |
 | 7     | CVE-2026-65905     | Tomcat DIGEST 认证有限重放攻击漏洞                   | 低危  | 默认启用（需要应用开启 DIGEST 认证。）                                                      | 是     |
 | 8     | CVE-2026-66422     | Tomcat Servlet 角色引用绕过声明式角色约束漏洞             | 低危  | 默认启用（需要应用配置 security-role-ref）                                               | 是     |
-| 9     | CVE-2026-68525     | Tomcat FORM 认证重定向绕过方法级安全约束漏洞               | 低危  |                                                                              |       |
+| 9     | CVE-2026-68525     | Tomcat FORM 认证重定向绕过方法级安全约束漏洞               | 低危  |                                                                              | 是     |
 | 10    | CVE-2026-73180     | Tomcat 已认证 WebSocket 会话在 HTTP 会话结束后未关闭漏洞   | 低危  |                                                                              |       |
