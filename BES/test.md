@@ -6,8 +6,8 @@
 | 3     | CVE-2026-68569     | Tomcat Principal 查找 fail-open 认证绕过漏洞       | 高危  | 默认不启用（需要使用DataSourceRealm/或者JDBCRealm，BES默认LockOutRealm / UserDatabaseRealm） | 是     |
 | ==4== | ==CVE-2026-68763== | Tomcat HTTP/2 backlog 跟踪分配泄漏拒绝服务漏洞         | 高危  | /                                                                            | 否     |
 | ==5== | ==CVE-2026-65637== | Tomcat HTTP/2 无 authority 请求绕过严格 SNI 校验漏洞  | 中危  | 默认不启用（需要开启http2/https）                                                       | 是     |
-| ==6==     | ==CVE-2026-65183==     | Tomcat Unix 域套接字权限设置 TOCTOU 竞争条件漏洞         | 低危  | /                                                                            | 否     |
+| ==6== | ==CVE-2026-65183== | Tomcat Unix 域套接字权限设置 TOCTOU 竞争条件漏洞         | 低危  | /                                                                            | 否     |
 | 7     | CVE-2026-65905     | Tomcat DIGEST 认证有限重放攻击漏洞                   | 低危  | 默认不启用（DIGEST 认证默认不启用。）                                                       | 是     |
-| 8     | CVE-2026-66422     | Tomcat Servlet 角色引用绕过声明式角色约束漏洞             | 低危  |                                                                              |       |
+| 8     | CVE-2026-66422     | Tomcat Servlet 角色引用绕过声明式角色约束漏洞             | 低危  |                                                                              | 是     |
 | 9     | CVE-2026-68525     | Tomcat FORM 认证重定向绕过方法级安全约束漏洞               | 低危  |                                                                              |       |
 | 10    | CVE-2026-73180     | Tomcat 已认证 WebSocket 会话在 HTTP 会话结束后未关闭漏洞   | 低危  |                                                                              |       |
