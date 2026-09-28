@@ -122,5 +122,6 @@ refdir=BASE/'references';refdir.mkdir(exist_ok=True)
 (refdir/'aramkit_v16.19_全分段_2026-09-28.json').write_text(json.dumps(REF,ensure_ascii=False,indent=2),encoding='utf-8')
 (refdir/'英雄基准_中位数.json').write_text(json.dumps({'英雄数':len(R),'参考输出分均中位数':MO,'参考真实承伤分均中位数':MT,'英雄列表':sorted(R)},ensure_ascii=False,indent=2),encoding='utf-8')
 print('MO/MT',MO,MT,'rows',len(rows))
-# Produce role-aware, ranked reading cards from the just-written detail CSVs.
-subprocess.run([sys.executable, str(P/'build_summary_cards.py')], check=True)
+# Keep v2.1 as the frozen calculation baseline. Publish v2.2 by applying
+# the auditable soft-support eligibility table, then draw current cards.
+subprocess.run([sys.executable, str(P/'apply_soft_support_policy.py')], check=True)
