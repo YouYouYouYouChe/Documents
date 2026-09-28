@@ -1,0 +1,6430 @@
+[
+  {
+    "file": "2026-09-23/M01_2A8F7707AE0992A333333429A0E3DB70.png",
+    "day_folder": "2026-09-23",
+    "match": 1,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 26,
+        "true_tank_pct": 62,
+        "anchor_y": 594,
+        "kda_ocr": "24/9/23",
+        "kda": [
+          24,
+          9,
+          23
+        ],
+        "damage_ocr": "6.455",
+        "damage_shown": 64000.0,
+        "true_tank_ocr": "25.3",
+        "true_tank_shown": 253000.0,
+        "champion": "monkeyking",
+        "icon_match_confidence": 0.7371,
+        "icon_match_top3": [
+          [
+            0.737,
+            "monkeyking"
+          ],
+          [
+            0.48,
+            "aurora"
+          ],
+          [
+            0.478,
+            "xinzhao"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 17,
+        "true_tank_pct": 7,
+        "anchor_y": 726,
+        "kda_ocr": "11/9/24",
+        "kda": [
+          11,
+          9,
+          24
+        ],
+        "damage_ocr": "4.25",
+        "damage_shown": 42000.0,
+        "true_tank_ocr": "2.75",
+        "true_tank_shown": 27000.0,
+        "champion": "jinx",
+        "icon_match_confidence": 0.7696,
+        "icon_match_top3": [
+          [
+            0.77,
+            "jinx"
+          ],
+          [
+            0.533,
+            "neeko"
+          ],
+          [
+            0.506,
+            "orianna"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 27,
+        "true_tank_pct": 11,
+        "anchor_y": 858,
+        "kda_ocr": "6/14/40",
+        "kda": [
+          6,
+          14,
+          40
+        ],
+        "damage_ocr": "6.55",
+        "damage_shown": 65000.0,
+        "true_tank_ocr": "4.45",
+        "true_tank_shown": 44000.0,
+        "champion": "karthus",
+        "icon_match_confidence": 0.7792,
+        "icon_match_top3": [
+          [
+            0.779,
+            "karthus"
+          ],
+          [
+            0.489,
+            "talon"
+          ],
+          [
+            0.487,
+            "nami"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 15,
+        "true_tank_pct": 9,
+        "anchor_y": 990,
+        "kda_ocr": "4/11/28",
+        "kda": [
+          4,
+          11,
+          28
+        ],
+        "damage_ocr": "3.75",
+        "damage_shown": 37000.0,
+        "true_tank_ocr": "3.55",
+        "true_tank_shown": 35000.0,
+        "champion": "azir",
+        "icon_match_confidence": 0.6814,
+        "icon_match_top3": [
+          [
+            0.681,
+            "azir"
+          ],
+          [
+            0.558,
+            "zed"
+          ],
+          [
+            0.491,
+            "kayle"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 15,
+        "true_tank_pct": 12,
+        "anchor_y": 1122,
+        "kda_ocr": "9/11/28",
+        "kda": [
+          9,
+          11,
+          28
+        ],
+        "damage_ocr": "3.85",
+        "damage_shown": 38000.0,
+        "true_tank_ocr": "485",
+        "true_tank_shown": null,
+        "champion": "talon",
+        "icon_match_confidence": 0.7779,
+        "icon_match_top3": [
+          [
+            0.778,
+            "talon"
+          ],
+          [
+            0.451,
+            "diana"
+          ],
+          [
+            0.43,
+            "karthus"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 101,
+    "duration": "15:51",
+    "start_clock": "21:58",
+    "team_kills_ocr": "54/54/143",
+    "team_kills": 54
+  },
+  {
+    "file": "2026-09-23/M02_1A69534EB3098B0D03086B719B06F182.png",
+    "day_folder": "2026-09-23",
+    "match": 2,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 18,
+        "true_tank_pct": 21,
+        "anchor_y": 639,
+        "kda_ocr": "10/15/31",
+        "kda": [
+          10,
+          15,
+          31
+        ],
+        "damage_ocr": "3.25",
+        "damage_shown": 32000.0,
+        "true_tank_ocr": "6.95",
+        "true_tank_shown": 69000.0,
+        "champion": "nasus",
+        "icon_match_confidence": 0.4752,
+        "icon_match_top3": [
+          [
+            0.475,
+            "nasus"
+          ],
+          [
+            0.427,
+            "diana"
+          ],
+          [
+            0.418,
+            "orianna"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 26,
+        "true_tank_pct": 13,
+        "anchor_y": 771,
+        "kda_ocr": "11/12/30",
+        "kda": [
+          11,
+          12,
+          30
+        ],
+        "damage_ocr": "4.655",
+        "damage_shown": 46000.0,
+        "true_tank_ocr": "4.35",
+        "true_tank_shown": 43000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.7985,
+        "icon_match_top3": [
+          [
+            0.799,
+            "caitlyn"
+          ],
+          [
+            0.565,
+            "orianna"
+          ],
+          [
+            0.548,
+            "missfortune"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 17,
+        "true_tank_pct": 21,
+        "anchor_y": 903,
+        "kda_ocr": "10/9/32",
+        "kda": [
+          10,
+          9,
+          32
+        ],
+        "damage_ocr": "3.15",
+        "damage_shown": 31000.0,
+        "true_tank_ocr": "7.05",
+        "true_tank_shown": 70000.0,
+        "champion": "veigar",
+        "icon_match_confidence": 0.627,
+        "icon_match_top3": [
+          [
+            0.627,
+            "veigar"
+          ],
+          [
+            0.321,
+            "nilah"
+          ],
+          [
+            0.314,
+            "sona"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 26,
+        "true_tank_pct": 15,
+        "anchor_y": 1035,
+        "kda_ocr": "18/11/27",
+        "kda": [
+          18,
+          11,
+          27
+        ],
+        "damage_ocr": "4.875",
+        "damage_shown": 48000.0,
+        "true_tank_ocr": "5.25",
+        "true_tank_shown": 52000.0,
+        "champion": "aurora",
+        "icon_match_confidence": 0.7295,
+        "icon_match_top3": [
+          [
+            0.73,
+            "aurora"
+          ],
+          [
+            0.564,
+            "morgana"
+          ],
+          [
+            0.563,
+            "xinzhao"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 13,
+        "true_tank_pct": 31,
+        "anchor_y": 1167,
+        "kda_ocr": "7/13/42",
+        "kda": [
+          7,
+          13,
+          42
+        ],
+        "damage_ocr": "2.35",
+        "damage_shown": 23000.0,
+        "true_tank_ocr": "10.45",
+        "true_tank_shown": 104000.0,
+        "champion": "jarvaniv",
+        "icon_match_confidence": 0.7198,
+        "icon_match_top3": [
+          [
+            0.72,
+            "jarvaniv"
+          ],
+          [
+            0.564,
+            "leona"
+          ],
+          [
+            0.558,
+            "annie"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 101,
+    "duration": "17:20",
+    "start_clock": "22:15",
+    "team_kills_ocr": "",
+    "team_kills": 56
+  },
+  {
+    "file": "2026-09-23/M03_C92B6468A84F4D2E8D7497A4204D0A94.png",
+    "day_folder": "2026-09-23",
+    "match": 3,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 23,
+        "true_tank_pct": 26,
+        "anchor_y": 648,
+        "kda_ocr": "11/13/27",
+        "kda": [
+          11,
+          13,
+          27
+        ],
+        "damage_ocr": "47H",
+        "damage_shown": null,
+        "true_tank_ocr": "18.05",
+        "true_tank_shown": 180000.0,
+        "champion": "nunu",
+        "icon_match_confidence": 0.6342,
+        "icon_match_top3": [
+          [
+            0.634,
+            "nunu"
+          ],
+          [
+            0.58,
+            "morgana"
+          ],
+          [
+            0.568,
+            "lillia"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 17,
+        "true_tank_pct": 6,
+        "anchor_y": 780,
+        "kda_ocr": "9/11/30",
+        "kda": [
+          9,
+          11,
+          30
+        ],
+        "damage_ocr": "3.55",
+        "damage_shown": 35000.0,
+        "true_tank_ocr": "3.95",
+        "true_tank_shown": 39000.0,
+        "champion": "velkoz",
+        "icon_match_confidence": 0.768,
+        "icon_match_top3": [
+          [
+            0.768,
+            "velkoz"
+          ],
+          [
+            0.573,
+            "malzahar"
+          ],
+          [
+            0.557,
+            "neeko"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 24,
+        "true_tank_pct": 7,
+        "anchor_y": 912,
+        "kda_ocr": "13/11/18",
+        "kda": [
+          13,
+          11,
+          18
+        ],
+        "damage_ocr": "487",
+        "damage_shown": null,
+        "true_tank_ocr": "4.55",
+        "true_tank_shown": 45000.0,
+        "champion": "varus",
+        "icon_match_confidence": 0.7492,
+        "icon_match_top3": [
+          [
+            0.749,
+            "varus"
+          ],
+          [
+            0.531,
+            "volibear"
+          ],
+          [
+            0.519,
+            "jax"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 20,
+        "true_tank_pct": 30,
+        "anchor_y": 1044,
+        "kda_ocr": "13/10/28",
+        "kda": [
+          13,
+          10,
+          28
+        ],
+        "damage_ocr": "4.05",
+        "damage_shown": 40000.0,
+        "true_tank_ocr": "20.75",
+        "true_tank_shown": 207000.0,
+        "champion": "shen",
+        "icon_match_confidence": 0.7052,
+        "icon_match_top3": [
+          [
+            0.705,
+            "shen"
+          ],
+          [
+            0.506,
+            "anivia"
+          ],
+          [
+            0.481,
+            "karthus"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 16,
+        "true_tank_pct": 31,
+        "anchor_y": 1176,
+        "kda_ocr": "6/10/32",
+        "kda": [
+          6,
+          10,
+          32
+        ],
+        "damage_ocr": "3.25",
+        "damage_shown": 32000.0,
+        "true_tank_ocr": "21.55",
+        "true_tank_shown": 215000.0,
+        "champion": "skarner",
+        "icon_match_confidence": 0.6763,
+        "icon_match_top3": [
+          [
+            0.676,
+            "skarner"
+          ],
+          [
+            0.521,
+            "morgana"
+          ],
+          [
+            0.494,
+            "urgot"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "18:40",
+    "start_clock": "22:34",
+    "team_kills_ocr": "",
+    "team_kills": 52
+  },
+  {
+    "file": "2026-09-23/M04_7A2D50501EAC7BE75D527D235BC76BAC.png",
+    "day_folder": "2026-09-23",
+    "match": 4,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 14,
+        "true_tank_pct": 13,
+        "anchor_y": 555,
+        "kda_ocr": "3/9/16",
+        "kda": [
+          3,
+          9,
+          16
+        ],
+        "damage_ocr": "1.65",
+        "damage_shown": 16000.0,
+        "true_tank_ocr": "2.55",
+        "true_tank_shown": 25000.0,
+        "champion": "heimerdinger",
+        "icon_match_confidence": 0.7419,
+        "icon_match_top3": [
+          [
+            0.742,
+            "heimerdinger"
+          ],
+          [
+            0.607,
+            "samira"
+          ],
+          [
+            0.515,
+            "lux"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 16,
+        "true_tank_pct": 14,
+        "anchor_y": 687,
+        "kda_ocr": "4/9/26",
+        "kda": [
+          4,
+          9,
+          26
+        ],
+        "damage_ocr": "1.95",
+        "damage_shown": 19000.0,
+        "true_tank_ocr": "2.75",
+        "true_tank_shown": 27000.0,
+        "champion": "senna",
+        "icon_match_confidence": 0.7777,
+        "icon_match_top3": [
+          [
+            0.778,
+            "senna"
+          ],
+          [
+            0.584,
+            "poppy"
+          ],
+          [
+            0.533,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 19,
+        "true_tank_pct": 25,
+        "anchor_y": 819,
+        "kda_ocr": "11/13/5",
+        "kda": [
+          11,
+          13,
+          5
+        ],
+        "damage_ocr": "2.2",
+        "damage_shown": 22000.0,
+        "true_tank_ocr": "47H",
+        "true_tank_shown": null,
+        "champion": "udyr",
+        "icon_match_confidence": 0.6779,
+        "icon_match_top3": [
+          [
+            0.678,
+            "udyr"
+          ],
+          [
+            0.573,
+            "morgana"
+          ],
+          [
+            0.524,
+            "lillia"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 29,
+        "true_tank_pct": 29,
+        "anchor_y": 951,
+        "kda_ocr": "10/10/14",
+        "kda": [
+          10,
+          10,
+          14
+        ],
+        "damage_ocr": "3.45",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "5.55",
+        "true_tank_shown": 55000.0,
+        "champion": "zed",
+        "icon_match_confidence": 0.734,
+        "icon_match_top3": [
+          [
+            0.734,
+            "zed"
+          ],
+          [
+            0.63,
+            "draven"
+          ],
+          [
+            0.598,
+            "azir"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 22,
+        "true_tank_pct": 19,
+        "anchor_y": 1083,
+        "kda_ocr": "11/11/12",
+        "kda": [
+          11,
+          11,
+          12
+        ],
+        "damage_ocr": "2.557",
+        "damage_shown": 25000.0,
+        "true_tank_ocr": "3.75",
+        "true_tank_shown": 37000.0,
+        "champion": "aurora",
+        "icon_match_confidence": 0.7267,
+        "icon_match_top3": [
+          [
+            0.727,
+            "aurora"
+          ],
+          [
+            0.561,
+            "xinzhao"
+          ],
+          [
+            0.551,
+            "morgana"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "14:27",
+    "start_clock": "22:54",
+    "team_kills_ocr": "",
+    "team_kills": 9
+  },
+  {
+    "file": "2026-09-23/M05_79354D553D8F443F74996B7B522AC25C.png",
+    "day_folder": "2026-09-23",
+    "match": 5,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 11,
+        "true_tank_pct": 30,
+        "anchor_y": 594,
+        "kda_ocr": "2/11/22",
+        "kda": [
+          2,
+          11,
+          22
+        ],
+        "damage_ocr": "2.05",
+        "damage_shown": 20000.0,
+        "true_tank_ocr": "15.55",
+        "true_tank_shown": 155000.0,
+        "champion": "nunu",
+        "icon_match_confidence": 0.6257,
+        "icon_match_top3": [
+          [
+            0.626,
+            "nunu"
+          ],
+          [
+            0.576,
+            "morgana"
+          ],
+          [
+            0.57,
+            "blitzcrank"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 20,
+        "true_tank_pct": 31,
+        "anchor_y": 726,
+        "kda_ocr": "11/9/18",
+        "kda": [
+          11,
+          9,
+          18
+        ],
+        "damage_ocr": "3.55",
+        "damage_shown": 35000.0,
+        "true_tank_ocr": "15.85",
+        "true_tank_shown": 158000.0,
+        "champion": "galio",
+        "icon_match_confidence": 0.6616,
+        "icon_match_top3": [
+          [
+            0.662,
+            "galio"
+          ],
+          [
+            0.533,
+            "sona"
+          ],
+          [
+            0.528,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 17,
+        "true_tank_pct": 8,
+        "anchor_y": 858,
+        "kda_ocr": "9/12/12",
+        "kda": [
+          9,
+          12,
+          12
+        ],
+        "damage_ocr": "2.95",
+        "damage_shown": 29000.0,
+        "true_tank_ocr": "4.3",
+        "true_tank_shown": 43000.0,
+        "champion": "akshan",
+        "icon_match_confidence": 0.7375,
+        "icon_match_top3": [
+          [
+            0.738,
+            "akshan"
+          ],
+          [
+            0.552,
+            "vladimir"
+          ],
+          [
+            0.521,
+            "singed"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 30,
+        "true_tank_pct": 18,
+        "anchor_y": 990,
+        "kda_ocr": "10/14/22",
+        "kda": [
+          10,
+          14,
+          22
+        ],
+        "damage_ocr": "5.25",
+        "damage_shown": 52000.0,
+        "true_tank_ocr": "9.35",
+        "true_tank_shown": 93000.0,
+        "champion": "graves",
+        "icon_match_confidence": 0.699,
+        "icon_match_top3": [
+          [
+            0.699,
+            "graves"
+          ],
+          [
+            0.529,
+            "gnar"
+          ],
+          [
+            0.493,
+            "blitzcrank"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 22,
+        "true_tank_pct": 12,
+        "anchor_y": 1122,
+        "kda_ocr": "12/16/19",
+        "kda": [
+          12,
+          16,
+          19
+        ],
+        "damage_ocr": "3.85",
+        "damage_shown": 38000.0,
+        "true_tank_ocr": "6.15",
+        "true_tank_shown": 61000.0,
+        "champion": "fizz",
+        "icon_match_confidence": 0.6298,
+        "icon_match_top3": [
+          [
+            0.63,
+            "fizz"
+          ],
+          [
+            0.539,
+            "pantheon"
+          ],
+          [
+            0.516,
+            "pyke"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "16:23",
+    "start_clock": "23:10",
+    "team_kills_ocr": "",
+    "team_kills": 44
+  },
+  {
+    "file": "2026-09-23/M06_28D0A4BD2036BED8B5EE1BAA103C430D.png",
+    "day_folder": "2026-09-23",
+    "match": 6,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 21,
+        "true_tank_pct": 44,
+        "anchor_y": 618,
+        "kda_ocr": "18/7/19",
+        "kda": [
+          18,
+          7,
+          19
+        ],
+        "damage_ocr": "2.85",
+        "damage_shown": 28000.0,
+        "true_tank_ocr": "8.655",
+        "true_tank_shown": 86000.0,
+        "champion": "poppy",
+        "icon_match_confidence": 0.7226,
+        "icon_match_top3": [
+          [
+            0.723,
+            "poppy"
+          ],
+          [
+            0.556,
+            "senna"
+          ],
+          [
+            0.543,
+            "mel"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 18,
+        "true_tank_pct": 11,
+        "anchor_y": 750,
+        "kda_ocr": "4/7/31",
+        "kda": [
+          4,
+          7,
+          31
+        ],
+        "damage_ocr": "2.557",
+        "damage_shown": 25000.0,
+        "true_tank_ocr": "2.25",
+        "true_tank_shown": 22000.0,
+        "champion": "kalista",
+        "icon_match_confidence": 0.7935,
+        "icon_match_top3": [
+          [
+            0.793,
+            "kalista"
+          ],
+          [
+            0.575,
+            "anivia"
+          ],
+          [
+            0.554,
+            "viktor"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 18,
+        "true_tank_pct": 16,
+        "anchor_y": 882,
+        "kda_ocr": "10/7/27",
+        "kda": [
+          10,
+          7,
+          27
+        ],
+        "damage_ocr": "2.45",
+        "damage_shown": 24000.0,
+        "true_tank_ocr": "3.05",
+        "true_tank_shown": 30000.0,
+        "champion": "aurelionsol",
+        "icon_match_confidence": 0.8085,
+        "icon_match_top3": [
+          [
+            0.809,
+            "aurelionsol"
+          ],
+          [
+            0.584,
+            "ryze"
+          ],
+          [
+            0.556,
+            "anivia"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 24,
+        "true_tank_pct": 21,
+        "anchor_y": 1014,
+        "kda_ocr": "9/11/31",
+        "kda": [
+          9,
+          11,
+          31
+        ],
+        "damage_ocr": "3.25",
+        "damage_shown": 32000.0,
+        "true_tank_ocr": "4.1",
+        "true_tank_shown": 41000.0,
+        "champion": "kayn",
+        "icon_match_confidence": 0.7198,
+        "icon_match_top3": [
+          [
+            0.72,
+            "kayn"
+          ],
+          [
+            0.521,
+            "senna"
+          ],
+          [
+            0.52,
+            "fiora"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 19,
+        "true_tank_pct": 8,
+        "anchor_y": 1146,
+        "kda_ocr": "5/7/32",
+        "kda": [
+          5,
+          7,
+          32
+        ],
+        "damage_ocr": "2.655",
+        "damage_shown": 26000.0,
+        "true_tank_ocr": "1.75",
+        "true_tank_shown": 17000.0,
+        "champion": "jinx",
+        "icon_match_confidence": 0.7574,
+        "icon_match_top3": [
+          [
+            0.757,
+            "jinx"
+          ],
+          [
+            0.561,
+            "samira"
+          ],
+          [
+            0.545,
+            "trundle"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "11:13",
+    "start_clock": "23:28",
+    "team_kills_ocr": "",
+    "team_kills": 46
+  },
+  {
+    "file": "2026-09-23/M07_5D1F83BC10D16116927F305AE5990753.png",
+    "day_folder": "2026-09-23",
+    "match": 7,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 10,
+        "true_tank_pct": 30,
+        "anchor_y": 657,
+        "kda_ocr": "8/13/29",
+        "kda": [
+          8,
+          13,
+          29
+        ],
+        "damage_ocr": "1.45",
+        "damage_shown": 14000.0,
+        "true_tank_ocr": "18.35",
+        "true_tank_shown": 183000.0,
+        "champion": "rammus",
+        "icon_match_confidence": 0.7715,
+        "icon_match_top3": [
+          [
+            0.772,
+            "rammus"
+          ],
+          [
+            0.489,
+            "naafiri"
+          ],
+          [
+            0.489,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 13,
+        "true_tank_pct": 33,
+        "anchor_y": 789,
+        "kda_ocr": "3/13/28",
+        "kda": [
+          3,
+          13,
+          28
+        ],
+        "damage_ocr": "1.95",
+        "damage_shown": 19000.0,
+        "true_tank_ocr": "20.25",
+        "true_tank_shown": 202000.0,
+        "champion": "zaahen",
+        "icon_match_confidence": 0.7045,
+        "icon_match_top3": [
+          [
+            0.705,
+            "zaahen"
+          ],
+          [
+            0.615,
+            "locke"
+          ],
+          [
+            0.602,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 19,
+        "true_tank_pct": 13,
+        "anchor_y": 921,
+        "kda_ocr": "12/14/23",
+        "kda": [
+          12,
+          14,
+          23
+        ],
+        "damage_ocr": "2.75",
+        "damage_shown": 27000.0,
+        "true_tank_ocr": "7.95",
+        "true_tank_shown": 79000.0,
+        "champion": "tryndamere",
+        "icon_match_confidence": 0.7816,
+        "icon_match_top3": [
+          [
+            0.782,
+            "tryndamere"
+          ],
+          [
+            0.636,
+            "urgot"
+          ],
+          [
+            0.608,
+            "viktor"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 24,
+        "true_tank_pct": 12,
+        "anchor_y": 1053,
+        "kda_ocr": "7/12/22",
+        "kda": [
+          7,
+          12,
+          22
+        ],
+        "damage_ocr": "3.65",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "7.35",
+        "true_tank_shown": 73000.0,
+        "champion": "lillia",
+        "icon_match_confidence": 0.7942,
+        "icon_match_top3": [
+          [
+            0.794,
+            "lillia"
+          ],
+          [
+            0.66,
+            "morgana"
+          ],
+          [
+            0.647,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 35,
+        "true_tank_pct": 11,
+        "anchor_y": 1185,
+        "kda_ocr": "23/15/17",
+        "kda": [
+          23,
+          15,
+          17
+        ],
+        "damage_ocr": "5.15",
+        "damage_shown": 51000.0,
+        "true_tank_ocr": "6.95",
+        "true_tank_shown": 69000.0,
+        "champion": "lucian",
+        "icon_match_confidence": 0.6524,
+        "icon_match_top3": [
+          [
+            0.652,
+            "lucian"
+          ],
+          [
+            0.523,
+            "zyra"
+          ],
+          [
+            0.49,
+            "renekton"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 99,
+    "duration": "16:42",
+    "start_clock": "23:41",
+    "team_kills_ocr": "",
+    "team_kills": 53
+  },
+  {
+    "file": "2026-09-23/M08_1D9FAAEA69BAAAF8CCCFE133E6D21202.png",
+    "day_folder": "2026-09-23",
+    "match": 8,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 17,
+        "true_tank_pct": 22,
+        "anchor_y": 570,
+        "kda_ocr": "9/15/24",
+        "kda": [
+          9,
+          15,
+          24
+        ],
+        "damage_ocr": "3.35",
+        "damage_shown": 33000.0,
+        "true_tank_ocr": "11.05",
+        "true_tank_shown": 110000.0,
+        "champion": "kayn",
+        "icon_match_confidence": 0.6756,
+        "icon_match_top3": [
+          [
+            0.676,
+            "kayn"
+          ],
+          [
+            0.551,
+            "fiora"
+          ],
+          [
+            0.523,
+            "senna"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 20,
+        "true_tank_pct": 11,
+        "anchor_y": 702,
+        "kda_ocr": "12/15/30",
+        "kda": [
+          12,
+          15,
+          30
+        ],
+        "damage_ocr": "4.05",
+        "damage_shown": 40000.0,
+        "true_tank_ocr": "5.75",
+        "true_tank_shown": 57000.0,
+        "champion": "vayne",
+        "icon_match_confidence": 0.8283,
+        "icon_match_top3": [
+          [
+            0.828,
+            "vayne"
+          ],
+          [
+            0.61,
+            "blitzcrank"
+          ],
+          [
+            0.599,
+            "vi"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 14,
+        "true_tank_pct": 16,
+        "anchor_y": 834,
+        "kda_ocr": "18/19/15",
+        "kda": [
+          18,
+          19,
+          15
+        ],
+        "damage_ocr": "2.85",
+        "damage_shown": 28000.0,
+        "true_tank_ocr": "8.05",
+        "true_tank_shown": 80000.0,
+        "champion": "udyr",
+        "icon_match_confidence": 0.6779,
+        "icon_match_top3": [
+          [
+            0.678,
+            "udyr"
+          ],
+          [
+            0.573,
+            "morgana"
+          ],
+          [
+            0.524,
+            "lillia"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 14,
+        "true_tank_pct": 34,
+        "anchor_y": 966,
+        "kda_ocr": "5/11/39",
+        "kda": [
+          5,
+          11,
+          39
+        ],
+        "damage_ocr": "2.95",
+        "damage_shown": 29000.0,
+        "true_tank_ocr": "17.2",
+        "true_tank_shown": 172000.0,
+        "champion": "blitzcrank",
+        "icon_match_confidence": 0.796,
+        "icon_match_top3": [
+          [
+            0.796,
+            "blitzcrank"
+          ],
+          [
+            0.593,
+            "swain"
+          ],
+          [
+            0.592,
+            "zyra"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 35,
+        "true_tank_pct": 16,
+        "anchor_y": 1098,
+        "kda_ocr": "24/12/25",
+        "kda": [
+          24,
+          12,
+          25
+        ],
+        "damage_ocr": "6.95",
+        "damage_shown": 69000.0,
+        "true_tank_ocr": "8.05",
+        "true_tank_shown": 80000.0,
+        "champion": "gangplank",
+        "icon_match_confidence": 0.7707,
+        "icon_match_top3": [
+          [
+            0.771,
+            "gangplank"
+          ],
+          [
+            0.606,
+            "malphite"
+          ],
+          [
+            0.442,
+            "akshan"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "19:34",
+    "start_clock": "00:00",
+    "team_kills_ocr": "",
+    "team_kills": 68
+  },
+  {
+    "file": "2026-09-24/M01_DF41BC514EBE0E05E75FFFF0DC8A928B.png",
+    "day_folder": "2026-09-24",
+    "match": 1,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 28,
+        "true_tank_pct": 31,
+        "anchor_y": 632,
+        "kda_ocr": "16/16/22 817",
+        "kda": [
+          16,
+          16,
+          22
+        ],
+        "damage_ocr": "4.64",
+        "damage_shown": 46000.0,
+        "true_tank_ocr": "9.24",
+        "true_tank_shown": 92000.0,
+        "champion": "jayce",
+        "icon_match_confidence": 0.7812,
+        "icon_match_top3": [
+          [
+            0.781,
+            "jayce"
+          ],
+          [
+            0.662,
+            "draven"
+          ],
+          [
+            0.63,
+            "lux"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 4,
+        "true_tank_pct": 11,
+        "anchor_y": 733,
+        "kda_ocr": "1/12/16 4427",
+        "kda": [
+          1,
+          12,
+          16
+        ],
+        "damage_ocr": "6.9k",
+        "damage_shown": 6900.0,
+        "true_tank_ocr": "3.445",
+        "true_tank_shown": 34000.0,
+        "champion": "ashe",
+        "icon_match_confidence": 0.759,
+        "icon_match_top3": [
+          [
+            0.759,
+            "ashe"
+          ],
+          [
+            0.517,
+            "vayne"
+          ],
+          [
+            0.514,
+            "aurelionsol"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 29,
+        "true_tank_pct": 24,
+        "anchor_y": 833,
+        "kda_ocr": "4272/13/90 733",
+        "kda": [
+          72,
+          13,
+          90
+        ],
+        "damage_ocr": "4.64",
+        "damage_shown": 46000.0,
+        "true_tank_ocr": "7.25",
+        "true_tank_shown": 72000.0,
+        "champion": "zed",
+        "icon_match_confidence": 0.7195,
+        "icon_match_top3": [
+          [
+            0.719,
+            "zed"
+          ],
+          [
+            0.573,
+            "azir"
+          ],
+          [
+            0.516,
+            "kayle"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 19,
+        "true_tank_pct": 13,
+        "anchor_y": 934,
+        "kda_ocr": "7/13/19 568",
+        "kda": [
+          7,
+          13,
+          19
+        ],
+        "damage_ocr": "3.045",
+        "damage_shown": 30000.0,
+        "true_tank_ocr": "3.845",
+        "true_tank_shown": 38000.0,
+        "champion": "xayah",
+        "icon_match_confidence": 0.5645,
+        "icon_match_top3": [
+          [
+            0.564,
+            "xayah"
+          ],
+          [
+            0.498,
+            "missfortune"
+          ],
+          [
+            0.46,
+            "zyra"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 20,
+        "true_tank_pct": 21,
+        "anchor_y": 1035,
+        "kda_ocr": "13/11/16 59",
+        "kda": [
+          13,
+          11,
+          16
+        ],
+        "damage_ocr": "3.24",
+        "damage_shown": 32000.0,
+        "true_tank_ocr": "6.345",
+        "true_tank_shown": 63000.0,
+        "champion": "ekko",
+        "icon_match_confidence": 0.7036,
+        "icon_match_top3": [
+          [
+            0.704,
+            "ekko"
+          ],
+          [
+            0.379,
+            "ambessa"
+          ],
+          [
+            0.379,
+            "illaoi"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "15:34",
+    "start_clock": null,
+    "team_kills_ocr": "49/65/93",
+    "team_kills": 49
+  },
+  {
+    "file": "2026-09-24/M02_DF1BCB05B634E25D342B73A2456A27DB.png",
+    "day_folder": "2026-09-24",
+    "match": 2,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 26,
+        "true_tank_pct": 24,
+        "anchor_y": 496,
+        "kda_ocr": "19/16/27 7465",
+        "kda": [
+          19,
+          16,
+          27
+        ],
+        "damage_ocr": "5.845",
+        "damage_shown": 58000.0,
+        "true_tank_ocr": "8.445",
+        "true_tank_shown": 84000.0,
+        "champion": "rengar",
+        "icon_match_confidence": 0.6444,
+        "icon_match_top3": [
+          [
+            0.644,
+            "rengar"
+          ],
+          [
+            0.457,
+            "jax"
+          ],
+          [
+            0.451,
+            "teemo"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "非六人名单",
+        "output_pct": 17,
+        "true_tank_pct": 19,
+        "anchor_y": 597,
+        "kda_ocr": "11/9/34 640",
+        "kda": [
+          11,
+          9,
+          34
+        ],
+        "damage_ocr": "3.74",
+        "damage_shown": 37000.0,
+        "true_tank_ocr": "6.645",
+        "true_tank_shown": 66000.0,
+        "champion": "lucian",
+        "icon_match_confidence": 0.6725,
+        "icon_match_top3": [
+          [
+            0.673,
+            "lucian"
+          ],
+          [
+            0.452,
+            "bard"
+          ],
+          [
+            0.421,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 16,
+        "true_tank_pct": 23,
+        "anchor_y": 697,
+        "kda_ocr": "15/15/23 5994",
+        "kda": [
+          15,
+          15,
+          23
+        ],
+        "damage_ocr": "3.64",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "8.34",
+        "true_tank_shown": 83000.0,
+        "champion": "ekko",
+        "icon_match_confidence": 0.6913,
+        "icon_match_top3": [
+          [
+            0.691,
+            "ekko"
+          ],
+          [
+            0.458,
+            "locke"
+          ],
+          [
+            0.434,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 20,
+        "true_tank_pct": 14,
+        "anchor_y": 798,
+        "kda_ocr": "6/10/42 73258",
+        "kda": [
+          6,
+          10,
+          42
+        ],
+        "damage_ocr": "4.64",
+        "damage_shown": 46000.0,
+        "true_tank_ocr": "5.045",
+        "true_tank_shown": 50000.0,
+        "champion": "zoe",
+        "icon_match_confidence": 0.7077,
+        "icon_match_top3": [
+          [
+            0.708,
+            "zoe"
+          ],
+          [
+            0.554,
+            "annie"
+          ],
+          [
+            0.531,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 21,
+        "true_tank_pct": 20,
+        "anchor_y": 899,
+        "kda_ocr": "15/12/32 699",
+        "kda": [
+          15,
+          12,
+          32
+        ],
+        "damage_ocr": "4.74",
+        "damage_shown": 47000.0,
+        "true_tank_ocr": "7.15",
+        "true_tank_shown": 71000.0,
+        "champion": "graves",
+        "icon_match_confidence": 0.6269,
+        "icon_match_top3": [
+          [
+            0.627,
+            "graves"
+          ],
+          [
+            0.451,
+            "missfortune"
+          ],
+          [
+            0.437,
+            "orianna"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "18:39",
+    "start_clock": null,
+    "team_kills_ocr": "66/62/158",
+    "team_kills": 66
+  },
+  {
+    "file": "2026-09-24/M03_270EACFF5ED3D5AB494D374E17A805F4.png",
+    "day_folder": "2026-09-24",
+    "match": 3,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 15,
+        "true_tank_pct": 14,
+        "anchor_y": 584,
+        "kda_ocr": "5/15/18 539",
+        "kda": [
+          5,
+          15,
+          18
+        ],
+        "damage_ocr": "2.34",
+        "damage_shown": 23000.0,
+        "true_tank_ocr": "5.545",
+        "true_tank_shown": 55000.0,
+        "champion": "teemo",
+        "icon_match_confidence": 0.7655,
+        "icon_match_top3": [
+          [
+            0.765,
+            "teemo"
+          ],
+          [
+            0.634,
+            "milio"
+          ],
+          [
+            0.574,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 18,
+        "true_tank_pct": 23,
+        "anchor_y": 685,
+        "kda_ocr": "5/14/19 565",
+        "kda": [
+          5,
+          14,
+          19
+        ],
+        "damage_ocr": "2.84",
+        "damage_shown": 28000.0,
+        "true_tank_ocr": "8.74",
+        "true_tank_shown": 87000.0,
+        "champion": "rumble",
+        "icon_match_confidence": 0.7246,
+        "icon_match_top3": [
+          [
+            0.725,
+            "rumble"
+          ],
+          [
+            0.523,
+            "samira"
+          ],
+          [
+            0.429,
+            "xinzhao"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 17,
+        "true_tank_pct": 34,
+        "anchor_y": 785,
+        "kda_ocr": "6/13/17 605",
+        "kda": [
+          6,
+          13,
+          17
+        ],
+        "damage_ocr": "2.64",
+        "damage_shown": 26000.0,
+        "true_tank_ocr": "13.04",
+        "true_tank_shown": 130000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.7673,
+        "icon_match_top3": [
+          [
+            0.767,
+            "sett"
+          ],
+          [
+            0.656,
+            "missfortune"
+          ],
+          [
+            0.601,
+            "sivir"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 18,
+        "true_tank_pct": 13,
+        "anchor_y": 886,
+        "kda_ocr": "8/13/16 514",
+        "kda": [
+          8,
+          13,
+          16
+        ],
+        "damage_ocr": "2.84",
+        "damage_shown": 28000.0,
+        "true_tank_ocr": "5.24",
+        "true_tank_shown": 52000.0,
+        "champion": "kayle",
+        "icon_match_confidence": 0.6917,
+        "icon_match_top3": [
+          [
+            0.692,
+            "kayle"
+          ],
+          [
+            0.568,
+            "zeri"
+          ],
+          [
+            0.522,
+            "zed"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 32,
+        "true_tank_pct": 16,
+        "anchor_y": 987,
+        "kda_ocr": "91/19/9 72",
+        "kda": [
+          91,
+          19,
+          9
+        ],
+        "damage_ocr": "5.045",
+        "damage_shown": 50000.0,
+        "true_tank_ocr": "6.14",
+        "true_tank_shown": 61000.0,
+        "champion": "samira",
+        "icon_match_confidence": 0.8001,
+        "icon_match_top3": [
+          [
+            0.8,
+            "samira"
+          ],
+          [
+            0.586,
+            "sona"
+          ],
+          [
+            0.547,
+            "nilah"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "16:43",
+    "start_clock": null,
+    "team_kills_ocr": "45/74/79",
+    "team_kills": 45
+  },
+  {
+    "file": "2026-09-24/M04_0A8BFC94C56A604B5AAACB14A1C1555F.png",
+    "day_folder": "2026-09-24",
+    "match": 4,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 16,
+        "true_tank_pct": 11,
+        "anchor_y": 479,
+        "kda_ocr": "6/15/27 539",
+        "kda": [
+          6,
+          15,
+          27
+        ],
+        "damage_ocr": "3.64",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "6.645",
+        "true_tank_shown": 66000.0,
+        "champion": "brand",
+        "icon_match_confidence": 0.6351,
+        "icon_match_top3": [
+          [
+            0.635,
+            "brand"
+          ],
+          [
+            0.478,
+            "illaoi"
+          ],
+          [
+            0.456,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 13,
+        "true_tank_pct": 34,
+        "anchor_y": 580,
+        "kda_ocr": "8/13/95 585",
+        "kda": [
+          8,
+          13,
+          95
+        ],
+        "damage_ocr": "3.14",
+        "damage_shown": 31000.0,
+        "true_tank_ocr": "20.84",
+        "true_tank_shown": 208000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.7774,
+        "icon_match_top3": [
+          [
+            0.777,
+            "sett"
+          ],
+          [
+            0.651,
+            "missfortune"
+          ],
+          [
+            0.608,
+            "taliyah"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 30,
+        "true_tank_pct": 10,
+        "anchor_y": 680,
+        "kda_ocr": "9232/17/18 678",
+        "kda": [
+          32,
+          17,
+          18
+        ],
+        "damage_ocr": "6.94",
+        "damage_shown": 69000.0,
+        "true_tank_ocr": "5.94",
+        "true_tank_shown": 59000.0,
+        "champion": "lucian",
+        "icon_match_confidence": 0.6072,
+        "icon_match_top3": [
+          [
+            0.607,
+            "lucian"
+          ],
+          [
+            0.433,
+            "bard"
+          ],
+          [
+            0.416,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 26,
+        "true_tank_pct": 37,
+        "anchor_y": 781,
+        "kda_ocr": "13/18/90 771",
+        "kda": [
+          13,
+          18,
+          90
+        ],
+        "damage_ocr": "6.045",
+        "damage_shown": 60000.0,
+        "true_tank_ocr": "22.34",
+        "true_tank_shown": 223000.0,
+        "champion": "yone",
+        "icon_match_confidence": 0.6576,
+        "icon_match_top3": [
+          [
+            0.658,
+            "yone"
+          ],
+          [
+            0.449,
+            "chogath"
+          ],
+          [
+            0.438,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 16,
+        "true_tank_pct": 9,
+        "anchor_y": 882,
+        "kda_ocr": "12/16/94 494",
+        "kda": [
+          12,
+          16,
+          94
+        ],
+        "damage_ocr": "3.64",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "5.545",
+        "true_tank_shown": 55000.0,
+        "champion": "smolder",
+        "icon_match_confidence": 0.6364,
+        "icon_match_top3": [
+          [
+            0.636,
+            "smolder"
+          ],
+          [
+            0.493,
+            "swain"
+          ],
+          [
+            0.478,
+            "taliyah"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 101,
+    "duration": "21:01",
+    "start_clock": null,
+    "team_kills_ocr": "62/79/114",
+    "team_kills": 62
+  },
+  {
+    "file": "2026-09-24/M05_AF03F86F80A215AF80D8507CFC0746D1.png",
+    "day_folder": "2026-09-24",
+    "match": 5,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 16,
+        "true_tank_pct": 15,
+        "anchor_y": 538,
+        "kda_ocr": "8/12/15 574",
+        "kda": [
+          8,
+          12,
+          15
+        ],
+        "damage_ocr": "1.845",
+        "damage_shown": 18000.0,
+        "true_tank_ocr": "44}",
+        "true_tank_shown": null,
+        "champion": "fizz",
+        "icon_match_confidence": 0.6246,
+        "icon_match_top3": [
+          [
+            0.625,
+            "fizz"
+          ],
+          [
+            0.483,
+            "pantheon"
+          ],
+          [
+            0.473,
+            "pyke"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 15,
+        "true_tank_pct": 13,
+        "anchor_y": 639,
+        "kda_ocr": "6/12/19 4",
+        "kda": [
+          6,
+          12,
+          19
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "3.845",
+        "true_tank_shown": 38000.0,
+        "champion": "yunara",
+        "icon_match_confidence": 0.764,
+        "icon_match_top3": [
+          [
+            0.764,
+            "yunara"
+          ],
+          [
+            0.547,
+            "jinx"
+          ],
+          [
+            0.478,
+            "kassadin"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 42,
+        "true_tank_pct": 28,
+        "anchor_y": 739,
+        "kda_ocr": "49/13/16 857",
+        "kda": [
+          49,
+          13,
+          16
+        ],
+        "damage_ocr": "4.94",
+        "damage_shown": 49000.0,
+        "true_tank_ocr": "8.14",
+        "true_tank_shown": 81000.0,
+        "champion": "samira",
+        "icon_match_confidence": 0.7912,
+        "icon_match_top3": [
+          [
+            0.791,
+            "samira"
+          ],
+          [
+            0.612,
+            "sona"
+          ],
+          [
+            0.553,
+            "galio"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 6,
+        "true_tank_pct": 14,
+        "anchor_y": 840,
+        "kda_ocr": "4/9/99 5491",
+        "kda": [
+          4,
+          9,
+          99
+        ],
+        "damage_ocr": "6.8k",
+        "damage_shown": 6800.0,
+        "true_tank_ocr": "3.94",
+        "true_tank_shown": 39000.0,
+        "champion": "karma",
+        "icon_match_confidence": 0.5643,
+        "icon_match_top3": [
+          [
+            0.564,
+            "karma"
+          ],
+          [
+            0.488,
+            "locke"
+          ],
+          [
+            0.409,
+            "malphite"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 22,
+        "true_tank_pct": 29,
+        "anchor_y": 941,
+        "kda_ocr": "11/11/18 674",
+        "kda": [
+          11,
+          11,
+          18
+        ],
+        "damage_ocr": "2.54",
+        "damage_shown": 25000.0,
+        "true_tank_ocr": "8.445",
+        "true_tank_shown": 84000.0,
+        "champion": "jhin",
+        "icon_match_confidence": 0.7745,
+        "icon_match_top3": [
+          [
+            0.775,
+            "jhin"
+          ],
+          [
+            0.606,
+            "aphelios"
+          ],
+          [
+            0.593,
+            "morgana"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 99,
+    "duration": "12:58",
+    "start_clock": null,
+    "team_kills_ocr": "48/57/97",
+    "team_kills": 48
+  },
+  {
+    "file": "2026-09-24/M06_D11349D219C9DF6BF959E2A3D3AC6965.png",
+    "day_folder": "2026-09-24",
+    "match": 6,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 21,
+        "true_tank_pct": 9,
+        "anchor_y": 511,
+        "kda_ocr": "8/9/2326 676",
+        "kda": [
+          8,
+          9,
+          23
+        ],
+        "damage_ocr": "4.64",
+        "damage_shown": 46000.0,
+        "true_tank_ocr": "4.94",
+        "true_tank_shown": 49000.0,
+        "champion": "xerath",
+        "icon_match_confidence": 0.6052,
+        "icon_match_top3": [
+          [
+            0.605,
+            "xerath"
+          ],
+          [
+            0.476,
+            "ambessa"
+          ],
+          [
+            0.436,
+            "pyke"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 6,
+        "true_tank_pct": 11,
+        "anchor_y": 612,
+        "kda_ocr": "4/13/51 5761",
+        "kda": [
+          4,
+          13,
+          51
+        ],
+        "damage_ocr": "1.34",
+        "damage_shown": 13000.0,
+        "true_tank_ocr": "5.94",
+        "true_tank_shown": 59000.0,
+        "champion": "soraka",
+        "icon_match_confidence": 0.7053,
+        "icon_match_top3": [
+          [
+            0.705,
+            "soraka"
+          ],
+          [
+            0.52,
+            "diana"
+          ],
+          [
+            0.495,
+            "belveth"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 13,
+        "true_tank_pct": 40,
+        "anchor_y": 712,
+        "kda_ocr": "92/7/99 7068",
+        "kda": [
+          92,
+          7,
+          99
+        ],
+        "damage_ocr": "2.94",
+        "damage_shown": 29000.0,
+        "true_tank_ocr": "22.04",
+        "true_tank_shown": 220000.0,
+        "champion": "nautilus",
+        "icon_match_confidence": 0.7322,
+        "icon_match_top3": [
+          [
+            0.732,
+            "nautilus"
+          ],
+          [
+            0.508,
+            "locke"
+          ],
+          [
+            0.444,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 29,
+        "true_tank_pct": 17,
+        "anchor_y": 813,
+        "kda_ocr": "92/42/99 811",
+        "kda": [
+          92,
+          42,
+          99
+        ],
+        "damage_ocr": "6.545",
+        "damage_shown": 65000.0,
+        "true_tank_ocr": "9.54",
+        "true_tank_shown": 95000.0,
+        "champion": "xayah",
+        "icon_match_confidence": 0.5826,
+        "icon_match_top3": [
+          [
+            0.583,
+            "xayah"
+          ],
+          [
+            0.463,
+            "locke"
+          ],
+          [
+            0.458,
+            "missfortune"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 31,
+        "true_tank_pct": 23,
+        "anchor_y": 914,
+        "kda_ocr": "17/18/33 24",
+        "kda": [
+          17,
+          18,
+          33
+        ],
+        "damage_ocr": "7.045",
+        "damage_shown": 70000.0,
+        "true_tank_ocr": "12.34",
+        "true_tank_shown": 123000.0,
+        "champion": "talon",
+        "icon_match_confidence": 0.7098,
+        "icon_match_top3": [
+          [
+            0.71,
+            "talon"
+          ],
+          [
+            0.43,
+            "pantheon"
+          ],
+          [
+            0.43,
+            "pyke"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "21:25",
+    "start_clock": null,
+    "team_kills_ocr": "75/60/171",
+    "team_kills": 75
+  },
+  {
+    "file": "2026-09-24/M07_8B554355E472C51850E2F283940F8E5A.png",
+    "day_folder": "2026-09-24",
+    "match": 7,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 12,
+        "true_tank_pct": 48,
+        "anchor_y": 529,
+        "kda_ocr": "10/8/39 731",
+        "kda": [
+          10,
+          8,
+          39
+        ],
+        "damage_ocr": "2.44",
+        "damage_shown": 24000.0,
+        "true_tank_ocr": "27.54",
+        "true_tank_shown": 275000.0,
+        "champion": "nautilus",
+        "icon_match_confidence": 0.7357,
+        "icon_match_top3": [
+          [
+            0.736,
+            "nautilus"
+          ],
+          [
+            0.457,
+            "ambessa"
+          ],
+          [
+            0.438,
+            "mel"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 30,
+        "true_tank_pct": 8,
+        "anchor_y": 630,
+        "kda_ocr": "94/13/95 736",
+        "kda": [
+          94,
+          13,
+          95
+        ],
+        "damage_ocr": "6.24",
+        "damage_shown": 62000.0,
+        "true_tank_ocr": "4.64",
+        "true_tank_shown": 46000.0,
+        "champion": "corki",
+        "icon_match_confidence": 0.6243,
+        "icon_match_top3": [
+          [
+            0.624,
+            "corki"
+          ],
+          [
+            0.44,
+            "leesin"
+          ],
+          [
+            0.413,
+            "rammus"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 29,
+        "true_tank_pct": 15,
+        "anchor_y": 730,
+        "kda_ocr": "293/11/35 783",
+        "kda": [
+          93,
+          11,
+          35
+        ],
+        "damage_ocr": "6.14",
+        "damage_shown": 61000.0,
+        "true_tank_ocr": "8.74",
+        "true_tank_shown": 87000.0,
+        "champion": "rumble",
+        "icon_match_confidence": 0.6253,
+        "icon_match_top3": [
+          [
+            0.625,
+            "rumble"
+          ],
+          [
+            0.545,
+            "xinzhao"
+          ],
+          [
+            0.486,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 10,
+        "true_tank_pct": 5,
+        "anchor_y": 831,
+        "kda_ocr": "2/10/37 535",
+        "kda": [
+          2,
+          10,
+          37
+        ],
+        "damage_ocr": "2.045",
+        "damage_shown": 20000.0,
+        "true_tank_ocr": "2.74",
+        "true_tank_shown": 27000.0,
+        "champion": "teemo",
+        "icon_match_confidence": 0.7657,
+        "icon_match_top3": [
+          [
+            0.766,
+            "teemo"
+          ],
+          [
+            0.634,
+            "milio"
+          ],
+          [
+            0.574,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 19,
+        "true_tank_pct": 24,
+        "anchor_y": 932,
+        "kda_ocr": "15/14/34 697",
+        "kda": [
+          15,
+          14,
+          34
+        ],
+        "damage_ocr": "4.04",
+        "damage_shown": 40000.0,
+        "true_tank_ocr": "13.74",
+        "true_tank_shown": 137000.0,
+        "champion": "xinzhao",
+        "icon_match_confidence": 0.766,
+        "icon_match_top3": [
+          [
+            0.766,
+            "xinzhao"
+          ],
+          [
+            0.529,
+            "sett"
+          ],
+          [
+            0.52,
+            "aurora"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "16:43",
+    "start_clock": null,
+    "team_kills_ocr": "75/56/170",
+    "team_kills": 75
+  },
+  {
+    "file": "2026-09-24/M08_A02CACD51C1A5CEA47D1EADEC01E8AC8.png",
+    "day_folder": "2026-09-24",
+    "match": 8,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 15,
+        "true_tank_pct": 24,
+        "anchor_y": 495,
+        "kda_ocr": "92/15/29 650",
+        "kda": [
+          92,
+          15,
+          29
+        ],
+        "damage_ocr": "6.545",
+        "damage_shown": 65000.0,
+        "true_tank_ocr": "24.74",
+        "true_tank_shown": 247000.0,
+        "champion": "maokai",
+        "icon_match_confidence": 0.7411,
+        "icon_match_top3": [
+          [
+            0.741,
+            "maokai"
+          ],
+          [
+            0.546,
+            "samira"
+          ],
+          [
+            0.524,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 18,
+        "true_tank_pct": 7,
+        "anchor_y": 596,
+        "kda_ocr": "11/17/32 5612",
+        "kda": [
+          11,
+          17,
+          32
+        ],
+        "damage_ocr": "7.45",
+        "damage_shown": 74000.0,
+        "true_tank_ocr": "6.645",
+        "true_tank_shown": 66000.0,
+        "champion": "kalista",
+        "icon_match_confidence": 0.8035,
+        "icon_match_top3": [
+          [
+            0.804,
+            "kalista"
+          ],
+          [
+            0.531,
+            "anivia"
+          ],
+          [
+            0.497,
+            "jhin"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 26,
+        "true_tank_pct": 11,
+        "anchor_y": 696,
+        "kda_ocr": "96/18/236 6934",
+        "kda": [
+          96,
+          18,
+          23
+        ],
+        "damage_ocr": "11.24",
+        "damage_shown": 112000.0,
+        "true_tank_ocr": "11.24",
+        "true_tank_shown": 112000.0,
+        "champion": "zed",
+        "icon_match_confidence": 0.7574,
+        "icon_match_top3": [
+          [
+            0.757,
+            "zed"
+          ],
+          [
+            0.57,
+            "azir"
+          ],
+          [
+            0.492,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 18,
+        "true_tank_pct": 42,
+        "anchor_y": 797,
+        "kda_ocr": "6/15/46 7853",
+        "kda": [
+          6,
+          15,
+          46
+        ],
+        "damage_ocr": "7.75",
+        "damage_shown": 77000.0,
+        "true_tank_ocr": "42.64",
+        "true_tank_shown": 426000.0,
+        "champion": "sion",
+        "icon_match_confidence": 0.7412,
+        "icon_match_top3": [
+          [
+            0.741,
+            "sion"
+          ],
+          [
+            0.462,
+            "locke"
+          ],
+          [
+            0.437,
+            "ambessa"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 23,
+        "true_tank_pct": 16,
+        "anchor_y": 898,
+        "kda_ocr": "12/18/38 694",
+        "kda": [
+          12,
+          18,
+          38
+        ],
+        "damage_ocr": "9.64",
+        "damage_shown": 96000.0,
+        "true_tank_ocr": "15.84",
+        "true_tank_shown": 158000.0,
+        "champion": "aatrox",
+        "icon_match_confidence": 0.7621,
+        "icon_match_top3": [
+          [
+            0.762,
+            "aatrox"
+          ],
+          [
+            0.48,
+            "locke"
+          ],
+          [
+            0.462,
+            "malphite"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "20:49",
+    "start_clock": null,
+    "team_kills_ocr": "778/83/181",
+    "team_kills": 778
+  },
+  {
+    "file": "2026-09-26/M01_51CF33ABD374D7A3D87DC6302E227218.png",
+    "day_folder": "2026-09-26",
+    "match": 1,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 10,
+        "true_tank_pct": 24,
+        "anchor_y": 476,
+        "kda_ocr": "1/8/14 53",
+        "kda": [
+          1,
+          8,
+          14
+        ],
+        "damage_ocr": "9.5k",
+        "damage_shown": 9500.0,
+        "true_tank_ocr": "7.25",
+        "true_tank_shown": 72000.0,
+        "champion": "nautilus",
+        "icon_match_confidence": 0.7441,
+        "icon_match_top3": [
+          [
+            0.744,
+            "nautilus"
+          ],
+          [
+            0.439,
+            "mel"
+          ],
+          [
+            0.432,
+            "monkeyking"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 23,
+        "true_tank_pct": 10,
+        "anchor_y": 577,
+        "kda_ocr": "7/9/13 65",
+        "kda": [
+          7,
+          9,
+          13
+        ],
+        "damage_ocr": "2.245",
+        "damage_shown": 22000.0,
+        "true_tank_ocr": "3.045",
+        "true_tank_shown": 30000.0,
+        "champion": "kennen",
+        "icon_match_confidence": 0.8298,
+        "icon_match_top3": [
+          [
+            0.83,
+            "kennen"
+          ],
+          [
+            0.603,
+            "viktor"
+          ],
+          [
+            0.574,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 29,
+        "true_tank_pct": 15,
+        "anchor_y": 677,
+        "kda_ocr": "5/10/13 74",
+        "kda": [
+          5,
+          10,
+          13
+        ],
+        "damage_ocr": "2.745",
+        "damage_shown": 27000.0,
+        "true_tank_ocr": "4.54",
+        "true_tank_shown": 45000.0,
+        "champion": "ekko",
+        "icon_match_confidence": 0.6499,
+        "icon_match_top3": [
+          [
+            0.65,
+            "ekko"
+          ],
+          [
+            0.421,
+            "viego"
+          ],
+          [
+            0.365,
+            "kassadin"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 18,
+        "true_tank_pct": 21,
+        "anchor_y": 778,
+        "kda_ocr": "7/10/10 57",
+        "kda": [
+          7,
+          10,
+          10
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "6.145",
+        "true_tank_shown": 61000.0,
+        "champion": "fiora",
+        "icon_match_confidence": 0.6403,
+        "icon_match_top3": [
+          [
+            0.64,
+            "fiora"
+          ],
+          [
+            0.445,
+            "kayn"
+          ],
+          [
+            0.411,
+            "kaisa"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 20,
+        "true_tank_pct": 29,
+        "anchor_y": 879,
+        "kda_ocr": "9/9/12 5",
+        "kda": [
+          9,
+          9,
+          12
+        ],
+        "damage_ocr": "1.94",
+        "damage_shown": 19000.0,
+        "true_tank_ocr": "8.645",
+        "true_tank_shown": 86000.0,
+        "champion": "akali",
+        "icon_match_confidence": 0.7251,
+        "icon_match_top3": [
+          [
+            0.725,
+            "akali"
+          ],
+          [
+            0.519,
+            "elise"
+          ],
+          [
+            0.477,
+            "ahri"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "12:54",
+    "start_clock": null,
+    "team_kills_ocr": "29/46/62",
+    "team_kills": 29
+  },
+  {
+    "file": "2026-09-26/M02_73369B3939370E4FAAA8DFCDD34E1F37.png",
+    "day_folder": "2026-09-26",
+    "match": 2,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 9,
+        "true_tank_pct": 9,
+        "anchor_y": 503,
+        "kda_ocr": "4/13/32 54",
+        "kda": [
+          4,
+          13,
+          32
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "3.745",
+        "true_tank_shown": 37000.0,
+        "champion": "ashe",
+        "icon_match_confidence": 0.7305,
+        "icon_match_top3": [
+          [
+            0.73,
+            "ashe"
+          ],
+          [
+            0.546,
+            "malzahar"
+          ],
+          [
+            0.544,
+            "kindred"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 13,
+        "true_tank_pct": 32,
+        "anchor_y": 604,
+        "kda_ocr": "4/13/32 56",
+        "kda": [
+          4,
+          13,
+          32
+        ],
+        "damage_ocr": "2.645",
+        "damage_shown": 26000.0,
+        "true_tank_ocr": "12.64",
+        "true_tank_shown": 126000.0,
+        "champion": "shyvana",
+        "icon_match_confidence": 0.5967,
+        "icon_match_top3": [
+          [
+            0.597,
+            "shyvana"
+          ],
+          [
+            0.405,
+            "malphite"
+          ],
+          [
+            0.402,
+            "aphelios"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 23,
+        "true_tank_pct": 9,
+        "anchor_y": 704,
+        "kda_ocr": "71",
+        "kda": null,
+        "damage_ocr": "4.54",
+        "damage_shown": 45000.0,
+        "true_tank_ocr": "3.745",
+        "true_tank_shown": 37000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.805,
+        "icon_match_top3": [
+          [
+            0.805,
+            "caitlyn"
+          ],
+          [
+            0.498,
+            "lillia"
+          ],
+          [
+            0.46,
+            "jhin"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 42,
+        "true_tank_pct": 37,
+        "anchor_y": 805,
+        "kda_ocr": "90/10/396106",
+        "kda": [
+          90,
+          10,
+          39
+        ],
+        "damage_ocr": "8.545",
+        "damage_shown": 85000.0,
+        "true_tank_ocr": "15.045",
+        "true_tank_shown": 150000.0,
+        "champion": "aatrox",
+        "icon_match_confidence": 0.7856,
+        "icon_match_top3": [
+          [
+            0.786,
+            "aatrox"
+          ],
+          [
+            0.521,
+            "malphite"
+          ],
+          [
+            0.439,
+            "gnar"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 14,
+        "true_tank_pct": 12,
+        "anchor_y": 906,
+        "kda_ocr": "12/11/29 57",
+        "kda": [
+          12,
+          11,
+          29
+        ],
+        "damage_ocr": "2.845",
+        "damage_shown": 28000.0,
+        "true_tank_ocr": "5.045",
+        "true_tank_shown": 50000.0,
+        "champion": "veigar",
+        "icon_match_confidence": 0.6666,
+        "icon_match_top3": [
+          [
+            0.667,
+            "veigar"
+          ],
+          [
+            0.434,
+            "malphite"
+          ],
+          [
+            0.377,
+            "sona"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 99,
+    "duration": "17:36",
+    "start_clock": null,
+    "team_kills_ocr": "63/59/146",
+    "team_kills": 63
+  },
+  {
+    "file": "2026-09-26/M03_E0A75D854539759DABE55A7B72F00DAF.png",
+    "day_folder": "2026-09-26",
+    "match": 3,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 14,
+        "true_tank_pct": 9,
+        "anchor_y": 491,
+        "kda_ocr": "10/13/28 40",
+        "kda": [
+          10,
+          13,
+          28
+        ],
+        "damage_ocr": "3.145",
+        "damage_shown": 31000.0,
+        "true_tank_ocr": "4.74",
+        "true_tank_shown": 47000.0,
+        "champion": "missfortune",
+        "icon_match_confidence": 0.8674,
+        "icon_match_top3": [
+          [
+            0.867,
+            "missfortune"
+          ],
+          [
+            0.631,
+            "zyra"
+          ],
+          [
+            0.608,
+            "gnar"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 27,
+        "true_tank_pct": 42,
+        "anchor_y": 592,
+        "kda_ocr": "13/12/34 94",
+        "kda": [
+          13,
+          12,
+          34
+        ],
+        "damage_ocr": "5.94",
+        "damage_shown": 59000.0,
+        "true_tank_ocr": "21.645",
+        "true_tank_shown": 216000.0,
+        "champion": "riven",
+        "icon_match_confidence": 0.7259,
+        "icon_match_top3": [
+          [
+            0.726,
+            "riven"
+          ],
+          [
+            0.587,
+            "janna"
+          ],
+          [
+            0.518,
+            "sivir"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "东冬咚胨#49567",
+        "output_pct": 25,
+        "true_tank_pct": 12,
+        "anchor_y": 692,
+        "kda_ocr": "90/13/92 67",
+        "kda": [
+          90,
+          13,
+          92
+        ],
+        "damage_ocr": "5.545",
+        "damage_shown": 55000.0,
+        "true_tank_ocr": "6.145",
+        "true_tank_shown": 61000.0,
+        "champion": "gangplank",
+        "icon_match_confidence": 0.7155,
+        "icon_match_top3": [
+          [
+            0.715,
+            "gangplank"
+          ],
+          [
+            0.512,
+            "malphite"
+          ],
+          [
+            0.436,
+            "mel"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "非六人名单",
+        "output_pct": 23,
+        "true_tank_pct": 30,
+        "anchor_y": 793,
+        "kda_ocr": "72",
+        "kda": null,
+        "damage_ocr": "5.04",
+        "damage_shown": 50000.0,
+        "true_tank_ocr": "15.34",
+        "true_tank_shown": 153000.0,
+        "champion": "camille",
+        "icon_match_confidence": 0.7823,
+        "icon_match_top3": [
+          [
+            0.782,
+            "camille"
+          ],
+          [
+            0.557,
+            "singed"
+          ],
+          [
+            0.52,
+            "orianna"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 12,
+        "true_tank_pct": 7,
+        "anchor_y": 894,
+        "kda_ocr": "7/10/22 51",
+        "kda": [
+          7,
+          10,
+          22
+        ],
+        "damage_ocr": "2.745",
+        "damage_shown": 27000.0,
+        "true_tank_ocr": "3.85",
+        "true_tank_shown": 38000.0,
+        "champion": "twistedfate",
+        "icon_match_confidence": 0.6965,
+        "icon_match_top3": [
+          [
+            0.697,
+            "twistedfate"
+          ],
+          [
+            0.45,
+            "diana"
+          ],
+          [
+            0.446,
+            "sivir"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 100,
+    "duration": "18:02",
+    "start_clock": null,
+    "team_kills_ocr": "71/60/127",
+    "team_kills": 71
+  },
+  {
+    "file": "2026-09-26/M04_40A0B2484F7E046740DF2BC3D878A4CD.png",
+    "day_folder": "2026-09-26",
+    "match": 4,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 18,
+        "true_tank_pct": 25,
+        "anchor_y": 491,
+        "kda_ocr": "8/15/96 64",
+        "kda": [
+          8,
+          15,
+          96
+        ],
+        "damage_ocr": "3.645",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "17.74",
+        "true_tank_shown": 177000.0,
+        "champion": "trundle",
+        "icon_match_confidence": 0.7863,
+        "icon_match_top3": [
+          [
+            0.786,
+            "trundle"
+          ],
+          [
+            0.593,
+            "maokai"
+          ],
+          [
+            0.554,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 21,
+        "true_tank_pct": 36,
+        "anchor_y": 592,
+        "kda_ocr": "8/14/96 77",
+        "kda": [
+          8,
+          14,
+          96
+        ],
+        "damage_ocr": "4.24",
+        "damage_shown": 42000.0,
+        "true_tank_ocr": "25.445",
+        "true_tank_shown": 254000.0,
+        "champion": "skarner",
+        "icon_match_confidence": 0.7678,
+        "icon_match_top3": [
+          [
+            0.768,
+            "skarner"
+          ],
+          [
+            0.413,
+            "elise"
+          ],
+          [
+            0.405,
+            "urgot"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Let325544#73173",
+        "output_pct": 17,
+        "true_tank_pct": 11,
+        "anchor_y": 692,
+        "kda_ocr": "5/13/2932 59",
+        "kda": [
+          5,
+          13,
+          29
+        ],
+        "damage_ocr": "3.445",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "7.85",
+        "true_tank_shown": 78000.0,
+        "champion": "ekko",
+        "icon_match_confidence": 0.6718,
+        "icon_match_top3": [
+          [
+            0.672,
+            "ekko"
+          ],
+          [
+            0.431,
+            "viego"
+          ],
+          [
+            0.382,
+            "malphite"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 18,
+        "true_tank_pct": 19,
+        "anchor_y": 793,
+        "kda_ocr": "8/16/16 55",
+        "kda": [
+          8,
+          16,
+          16
+        ],
+        "damage_ocr": "3.445",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "13.44",
+        "true_tank_shown": 134000.0,
+        "champion": "briar",
+        "icon_match_confidence": 0.746,
+        "icon_match_top3": [
+          [
+            0.746,
+            "briar"
+          ],
+          [
+            0.549,
+            "vex"
+          ],
+          [
+            0.484,
+            "velkoz"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 25,
+        "true_tank_pct": 9,
+        "anchor_y": 894,
+        "kda_ocr": "17/15/16 63",
+        "kda": [
+          17,
+          15,
+          16
+        ],
+        "damage_ocr": "5.04",
+        "damage_shown": 50000.0,
+        "true_tank_ocr": "6.145",
+        "true_tank_shown": 61000.0,
+        "champion": "draven",
+        "icon_match_confidence": 0.7779,
+        "icon_match_top3": [
+          [
+            0.778,
+            "draven"
+          ],
+          [
+            0.614,
+            "jayce"
+          ],
+          [
+            0.613,
+            "zyra"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 99,
+    "true_tank_pct_sum": 100,
+    "duration": "19:04",
+    "start_clock": null,
+    "team_kills_ocr": "46/73/106",
+    "team_kills": 46
+  },
+  {
+    "file": "2026-09-26/M05_B8101298736470003406BD85CA457CDF.png",
+    "day_folder": "2026-09-26",
+    "match": 5,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 20,
+        "true_tank_pct": 28,
+        "anchor_y": 485,
+        "kda_ocr": "11/18/39 7",
+        "kda": [
+          11,
+          18,
+          39
+        ],
+        "damage_ocr": "5.34",
+        "damage_shown": 53000.0,
+        "true_tank_ocr": "19.14",
+        "true_tank_shown": 191000.0,
+        "champion": "amumu",
+        "icon_match_confidence": 0.7973,
+        "icon_match_top3": [
+          [
+            0.797,
+            "amumu"
+          ],
+          [
+            0.51,
+            "galio"
+          ],
+          [
+            0.483,
+            "hwei"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 17,
+        "true_tank_pct": 27,
+        "anchor_y": 586,
+        "kda_ocr": "13/15/23 65",
+        "kda": [
+          13,
+          15,
+          23
+        ],
+        "damage_ocr": "4.54",
+        "damage_shown": 45000.0,
+        "true_tank_ocr": "18.64",
+        "true_tank_shown": 186000.0,
+        "champion": "yasuo",
+        "icon_match_confidence": 0.7569,
+        "icon_match_top3": [
+          [
+            0.757,
+            "yasuo"
+          ],
+          [
+            0.453,
+            "volibear"
+          ],
+          [
+            0.432,
+            "rengar"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Let325544#73173",
+        "output_pct": 13,
+        "true_tank_pct": 9,
+        "anchor_y": 686,
+        "kda_ocr": "6/17/33 48",
+        "kda": [
+          6,
+          17,
+          33
+        ],
+        "damage_ocr": "3.445",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "6.545",
+        "true_tank_shown": 65000.0,
+        "champion": "brand",
+        "icon_match_confidence": 0.6457,
+        "icon_match_top3": [
+          [
+            0.646,
+            "brand"
+          ],
+          [
+            0.485,
+            "locke"
+          ],
+          [
+            0.482,
+            "illaoi"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 20,
+        "true_tank_pct": 25,
+        "anchor_y": 787,
+        "kda_ocr": "15/13/28 6",
+        "kda": [
+          15,
+          13,
+          28
+        ],
+        "damage_ocr": "5.14",
+        "damage_shown": 51000.0,
+        "true_tank_ocr": "17.14",
+        "true_tank_shown": 171000.0,
+        "champion": "aatrox",
+        "icon_match_confidence": 0.7406,
+        "icon_match_top3": [
+          [
+            0.741,
+            "aatrox"
+          ],
+          [
+            0.521,
+            "malphite"
+          ],
+          [
+            0.453,
+            "gnar"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 29,
+        "true_tank_pct": 11,
+        "anchor_y": 888,
+        "kda_ocr": "95/10/94 74",
+        "kda": [
+          95,
+          10,
+          94
+        ],
+        "damage_ocr": "7.65",
+        "damage_shown": 76000.0,
+        "true_tank_ocr": "7.85",
+        "true_tank_shown": 78000.0,
+        "champion": "zed",
+        "icon_match_confidence": 0.7451,
+        "icon_match_top3": [
+          [
+            0.745,
+            "zed"
+          ],
+          [
+            0.575,
+            "azir"
+          ],
+          [
+            0.519,
+            "kayle"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 99,
+    "true_tank_pct_sum": 100,
+    "duration": "20:38",
+    "start_clock": null,
+    "team_kills_ocr": "70/73/147",
+    "team_kills": 70
+  },
+  {
+    "file": "2026-09-26/M06_E7C5133B6D6D05F178DBB76E14D5FE5A.png",
+    "day_folder": "2026-09-26",
+    "match": 6,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 15,
+        "true_tank_pct": 9,
+        "anchor_y": 587,
+        "kda_ocr": "8/11/16 51",
+        "kda": [
+          8,
+          11,
+          16
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "4.44",
+        "true_tank_shown": 44000.0,
+        "champion": "senna",
+        "icon_match_confidence": 0.7594,
+        "icon_match_top3": [
+          [
+            0.759,
+            "senna"
+          ],
+          [
+            0.553,
+            "poppy"
+          ],
+          [
+            0.512,
+            "jax"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 21,
+        "true_tank_pct": 15,
+        "anchor_y": 688,
+        "kda_ocr": "9/12/17 67",
+        "kda": [
+          9,
+          12,
+          17
+        ],
+        "damage_ocr": "2.445",
+        "damage_shown": 24000.0,
+        "true_tank_ocr": "7.045",
+        "true_tank_shown": 70000.0,
+        "champion": "maokai",
+        "icon_match_confidence": 0.7357,
+        "icon_match_top3": [
+          [
+            0.736,
+            "maokai"
+          ],
+          [
+            0.539,
+            "samira"
+          ],
+          [
+            0.527,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 19,
+        "true_tank_pct": 37,
+        "anchor_y": 788,
+        "kda_ocr": "32/11/94 67",
+        "kda": [
+          32,
+          11,
+          94
+        ],
+        "damage_ocr": "2.245",
+        "damage_shown": 22000.0,
+        "true_tank_ocr": "17.74",
+        "true_tank_shown": 177000.0,
+        "champion": "mordekaiser",
+        "icon_match_confidence": 0.6926,
+        "icon_match_top3": [
+          [
+            0.693,
+            "mordekaiser"
+          ],
+          [
+            0.423,
+            "mel"
+          ],
+          [
+            0.41,
+            "jax"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 28,
+        "true_tank_pct": 13,
+        "anchor_y": 889,
+        "kda_ocr": "8/13/17 72",
+        "kda": [
+          8,
+          13,
+          17
+        ],
+        "damage_ocr": "3.345",
+        "damage_shown": 33000.0,
+        "true_tank_ocr": "6.345",
+        "true_tank_shown": 63000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.8135,
+        "icon_match_top3": [
+          [
+            0.813,
+            "caitlyn"
+          ],
+          [
+            0.484,
+            "malphite"
+          ],
+          [
+            0.47,
+            "lillia"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 16,
+        "true_tank_pct": 26,
+        "anchor_y": 990,
+        "kda_ocr": "7/12/17",
+        "kda": [
+          7,
+          12,
+          17
+        ],
+        "damage_ocr": "1.845",
+        "damage_shown": 18000.0,
+        "true_tank_ocr": "12.24",
+        "true_tank_shown": 122000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.8065,
+        "icon_match_top3": [
+          [
+            0.807,
+            "sett"
+          ],
+          [
+            0.651,
+            "missfortune"
+          ],
+          [
+            0.613,
+            "taliyah"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 99,
+    "true_tank_pct_sum": 100,
+    "duration": "17:37",
+    "start_clock": null,
+    "team_kills_ocr": "35/60/91",
+    "team_kills": 35
+  },
+  {
+    "file": "2026-09-26/M07_37EB5AFB3AFC29446824A41E42FCD65B.png",
+    "day_folder": "2026-09-26",
+    "match": 7,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 29,
+        "true_tank_pct": 24,
+        "anchor_y": 523,
+        "kda_ocr": "14/18/34",
+        "kda": [
+          14,
+          18,
+          34
+        ],
+        "damage_ocr": "5.54",
+        "damage_shown": 55000.0,
+        "true_tank_ocr": "8.55",
+        "true_tank_shown": 85000.0,
+        "champion": "kayn",
+        "icon_match_confidence": 0.6761,
+        "icon_match_top3": [
+          [
+            0.676,
+            "kayn"
+          ],
+          [
+            0.524,
+            "fiora"
+          ],
+          [
+            0.506,
+            "senna"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 11,
+        "true_tank_pct": 6,
+        "anchor_y": 624,
+        "kda_ocr": "6/8/2376 5",
+        "kda": [
+          6,
+          8,
+          23
+        ],
+        "damage_ocr": "2.145",
+        "damage_shown": 21000.0,
+        "true_tank_ocr": "2.045",
+        "true_tank_shown": 20000.0,
+        "champion": "ashe",
+        "icon_match_confidence": 0.7511,
+        "icon_match_top3": [
+          [
+            0.751,
+            "ashe"
+          ],
+          [
+            0.526,
+            "vayne"
+          ],
+          [
+            0.52,
+            "aurelionsol"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 28,
+        "true_tank_pct": 26,
+        "anchor_y": 724,
+        "kda_ocr": "14/13/97",
+        "kda": [
+          14,
+          13,
+          97
+        ],
+        "damage_ocr": "5.445",
+        "damage_shown": 54000.0,
+        "true_tank_ocr": "9.34",
+        "true_tank_shown": 93000.0,
+        "champion": "diana",
+        "icon_match_confidence": 0.7754,
+        "icon_match_top3": [
+          [
+            0.775,
+            "diana"
+          ],
+          [
+            0.565,
+            "kogmaw"
+          ],
+          [
+            0.561,
+            "orianna"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 18,
+        "true_tank_pct": 31,
+        "anchor_y": 825,
+        "kda_ocr": "14/10/19 67",
+        "kda": [
+          14,
+          10,
+          19
+        ],
+        "damage_ocr": "3.445",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "11.04",
+        "true_tank_shown": 110000.0,
+        "champion": "zaahen",
+        "icon_match_confidence": 0.7136,
+        "icon_match_top3": [
+          [
+            0.714,
+            "zaahen"
+          ],
+          [
+            0.554,
+            "swain"
+          ],
+          [
+            0.532,
+            "jayce"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 14,
+        "true_tank_pct": 14,
+        "anchor_y": 926,
+        "kda_ocr": "15/15/18 50",
+        "kda": [
+          15,
+          15,
+          18
+        ],
+        "damage_ocr": "2.645",
+        "damage_shown": 26000.0,
+        "true_tank_ocr": "5.24",
+        "true_tank_shown": 52000.0,
+        "champion": "samira",
+        "icon_match_confidence": 0.8374,
+        "icon_match_top3": [
+          [
+            0.837,
+            "samira"
+          ],
+          [
+            0.516,
+            "nilah"
+          ],
+          [
+            0.503,
+            "rammus"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 101,
+    "duration": "18:50",
+    "start_clock": null,
+    "team_kills_ocr": "63/64/124",
+    "team_kills": 63
+  },
+  {
+    "file": "2026-09-26/M08_DB298D7816849E90E468D1AFC683349F.png",
+    "day_folder": "2026-09-26",
+    "match": 8,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 13,
+        "true_tank_pct": 37,
+        "anchor_y": 528,
+        "kda_ocr": "11/15/23 38",
+        "kda": [
+          11,
+          15,
+          23
+        ],
+        "damage_ocr": "2.145",
+        "damage_shown": 21000.0,
+        "true_tank_ocr": "20.245",
+        "true_tank_shown": 202000.0,
+        "champion": "monkeyking",
+        "icon_match_confidence": 0.7647,
+        "icon_match_top3": [
+          [
+            0.765,
+            "monkeyking"
+          ],
+          [
+            0.481,
+            "aurora"
+          ],
+          [
+            0.472,
+            "xinzhao"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 24,
+        "true_tank_pct": 12,
+        "anchor_y": 629,
+        "kda_ocr": "9/14/95 6",
+        "kda": [
+          9,
+          14,
+          95
+        ],
+        "damage_ocr": "3.945",
+        "damage_shown": 39000.0,
+        "true_tank_ocr": "6.645",
+        "true_tank_shown": 66000.0,
+        "champion": "hwei",
+        "icon_match_confidence": 0.8321,
+        "icon_match_top3": [
+          [
+            0.832,
+            "hwei"
+          ],
+          [
+            0.513,
+            "galio"
+          ],
+          [
+            0.511,
+            "ahri"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Let325544#73173",
+        "output_pct": 16,
+        "true_tank_pct": 20,
+        "anchor_y": 729,
+        "kda_ocr": "6/19/19 53",
+        "kda": [
+          6,
+          19,
+          19
+        ],
+        "damage_ocr": "2.645",
+        "damage_shown": 26000.0,
+        "true_tank_ocr": "10.74",
+        "true_tank_shown": 107000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.8106,
+        "icon_match_top3": [
+          [
+            0.811,
+            "sett"
+          ],
+          [
+            0.658,
+            "missfortune"
+          ],
+          [
+            0.611,
+            "sivir"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 22,
+        "true_tank_pct": 15,
+        "anchor_y": 830,
+        "kda_ocr": "13/17/15 65",
+        "kda": [
+          13,
+          17,
+          15
+        ],
+        "damage_ocr": "3.545",
+        "damage_shown": 35000.0,
+        "true_tank_ocr": "8.245",
+        "true_tank_shown": 82000.0,
+        "champion": "udyr",
+        "icon_match_confidence": 0.6054,
+        "icon_match_top3": [
+          [
+            0.605,
+            "udyr"
+          ],
+          [
+            0.392,
+            "malphite"
+          ],
+          [
+            0.382,
+            "morgana"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 25,
+        "true_tank_pct": 15,
+        "anchor_y": 931,
+        "kda_ocr": "11/16/16 67",
+        "kda": [
+          11,
+          16,
+          16
+        ],
+        "damage_ocr": "3.945",
+        "damage_shown": 39000.0,
+        "true_tank_ocr": "8.245",
+        "true_tank_shown": 82000.0,
+        "champion": "pantheon",
+        "icon_match_confidence": 0.8536,
+        "icon_match_top3": [
+          [
+            0.854,
+            "pantheon"
+          ],
+          [
+            0.662,
+            "ambessa"
+          ],
+          [
+            0.62,
+            "gragas"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "19:27",
+    "start_clock": null,
+    "team_kills_ocr": "50/81/98",
+    "team_kills": 50
+  },
+  {
+    "file": "2026-09-26/M09_C3BFFDE546E9107F3F27BFEA769D2E2A.png",
+    "day_folder": "2026-09-26",
+    "match": 9,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 17,
+        "true_tank_pct": 12,
+        "anchor_y": 498,
+        "kda_ocr": "11/9/23 51",
+        "kda": [
+          11,
+          9,
+          23
+        ],
+        "damage_ocr": "2.445",
+        "damage_shown": 24000.0,
+        "true_tank_ocr": "3.945",
+        "true_tank_shown": 39000.0,
+        "champion": "nidalee",
+        "icon_match_confidence": 0.7261,
+        "icon_match_top3": [
+          [
+            0.726,
+            "nidalee"
+          ],
+          [
+            0.499,
+            "zyra"
+          ],
+          [
+            0.442,
+            "elise"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 15,
+        "true_tank_pct": 13,
+        "anchor_y": 599,
+        "kda_ocr": "1 4",
+        "kda": null,
+        "damage_ocr": "2.145",
+        "damage_shown": 21000.0,
+        "true_tank_ocr": "4.54",
+        "true_tank_shown": 45000.0,
+        "champion": "shaco",
+        "icon_match_confidence": 0.666,
+        "icon_match_top3": [
+          [
+            0.666,
+            "shaco"
+          ],
+          [
+            0.394,
+            "velkoz"
+          ],
+          [
+            0.392,
+            "malphite"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 28,
+        "true_tank_pct": 25,
+        "anchor_y": 699,
+        "kda_ocr": "14/14/2323 7",
+        "kda": [
+          14,
+          14,
+          23
+        ],
+        "damage_ocr": "3.945",
+        "damage_shown": 39000.0,
+        "true_tank_ocr": "8.55",
+        "true_tank_shown": 85000.0,
+        "champion": "hecarim",
+        "icon_match_confidence": 0.741,
+        "icon_match_top3": [
+          [
+            0.741,
+            "hecarim"
+          ],
+          [
+            0.435,
+            "nocturne"
+          ],
+          [
+            0.419,
+            "zac"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 27,
+        "true_tank_pct": 21,
+        "anchor_y": 800,
+        "kda_ocr": "7/18/31 7",
+        "kda": [
+          7,
+          18,
+          31
+        ],
+        "damage_ocr": "3.845",
+        "damage_shown": 38000.0,
+        "true_tank_ocr": "7.045",
+        "true_tank_shown": 70000.0,
+        "champion": "udyr",
+        "icon_match_confidence": 0.6021,
+        "icon_match_top3": [
+          [
+            0.602,
+            "udyr"
+          ],
+          [
+            0.392,
+            "malphite"
+          ],
+          [
+            0.389,
+            "maokai"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 14,
+        "true_tank_pct": 30,
+        "anchor_y": 901,
+        "kda_ocr": "10/10/18 54",
+        "kda": [
+          10,
+          10,
+          18
+        ],
+        "damage_ocr": "1.94",
+        "damage_shown": 19000.0,
+        "true_tank_ocr": "10.14",
+        "true_tank_shown": 101000.0,
+        "champion": "tahmkench",
+        "icon_match_confidence": 0.6891,
+        "icon_match_top3": [
+          [
+            0.689,
+            "tahmkench"
+          ],
+          [
+            0.534,
+            "yorick"
+          ],
+          [
+            0.503,
+            "morgana"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 101,
+    "duration": "14:33",
+    "start_clock": null,
+    "team_kills_ocr": "54/62/108",
+    "team_kills": 54
+  },
+  {
+    "file": "2026-09-27/M01_926742ADDB85E1227EDD0424FECFBEE9.png",
+    "day_folder": "2026-09-27",
+    "match": 1,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 14,
+        "true_tank_pct": 11,
+        "anchor_y": 506,
+        "kda_ocr": "7/8/91 5399",
+        "kda": [
+          7,
+          8,
+          91
+        ],
+        "damage_ocr": "1.14",
+        "damage_shown": 11000.0,
+        "true_tank_ocr": "2.045",
+        "true_tank_shown": 20000.0,
+        "champion": "teemo",
+        "icon_match_confidence": 0.7807,
+        "icon_match_top3": [
+          [
+            0.781,
+            "teemo"
+          ],
+          [
+            0.647,
+            "milio"
+          ],
+          [
+            0.566,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 20,
+        "true_tank_pct": 12,
+        "anchor_y": 607,
+        "kda_ocr": "4/7/95 6317",
+        "kda": [
+          4,
+          7,
+          95
+        ],
+        "damage_ocr": "1.54",
+        "damage_shown": 15000.0,
+        "true_tank_ocr": "2.145",
+        "true_tank_shown": 21000.0,
+        "champion": "viktor",
+        "icon_match_confidence": 0.7909,
+        "icon_match_top3": [
+          [
+            0.791,
+            "viktor"
+          ],
+          [
+            0.64,
+            "ryze"
+          ],
+          [
+            0.606,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 22,
+        "true_tank_pct": 14,
+        "anchor_y": 707,
+        "kda_ocr": "5/8/18 6413",
+        "kda": [
+          5,
+          8,
+          18
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "2.545",
+        "true_tank_shown": 25000.0,
+        "champion": "quinn",
+        "icon_match_confidence": 0.723,
+        "icon_match_top3": [
+          [
+            0.723,
+            "quinn"
+          ],
+          [
+            0.479,
+            "aurora"
+          ],
+          [
+            0.468,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 30,
+        "true_tank_pct": 23,
+        "anchor_y": 808,
+        "kda_ocr": "18/9/10 762",
+        "kda": [
+          18,
+          9,
+          10
+        ],
+        "damage_ocr": "2.34",
+        "damage_shown": 23000.0,
+        "true_tank_ocr": "4.14",
+        "true_tank_shown": 41000.0,
+        "champion": "viego",
+        "icon_match_confidence": 0.4498,
+        "icon_match_top3": [
+          [
+            0.45,
+            "viego"
+          ],
+          [
+            0.39,
+            "anivia"
+          ],
+          [
+            0.39,
+            "braum"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 13,
+        "true_tank_pct": 39,
+        "anchor_y": 909,
+        "kda_ocr": "7/12/16 600",
+        "kda": [
+          7,
+          12,
+          16
+        ],
+        "damage_ocr": "1.045",
+        "damage_shown": 10000.0,
+        "true_tank_ocr": "6.845",
+        "true_tank_shown": 68000.0,
+        "champion": "maokai",
+        "icon_match_confidence": 0.6938,
+        "icon_match_top3": [
+          [
+            0.694,
+            "maokai"
+          ],
+          [
+            0.537,
+            "trundle"
+          ],
+          [
+            0.536,
+            "samira"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 99,
+    "true_tank_pct_sum": 99,
+    "duration": "10:55",
+    "start_clock": null,
+    "team_kills_ocr": "7 41/44/90",
+    "team_kills": 41
+  },
+  {
+    "file": "2026-09-27/M02_232DA761B2AFEDDF3E54CC9388C0BCB1.png",
+    "day_folder": "2026-09-27",
+    "match": 2,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 14,
+        "true_tank_pct": 5,
+        "anchor_y": 593,
+        "kda_ocr": "8/8/42 612",
+        "kda": [
+          8,
+          8,
+          42
+        ],
+        "damage_ocr": "3.645",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "2.745",
+        "true_tank_shown": 27000.0,
+        "champion": "teemo",
+        "icon_match_confidence": 0.78,
+        "icon_match_top3": [
+          [
+            0.78,
+            "teemo"
+          ],
+          [
+            0.627,
+            "milio"
+          ],
+          [
+            0.545,
+            "gnar"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 14,
+        "true_tank_pct": 40,
+        "anchor_y": 694,
+        "kda_ocr": "8/11/42 731",
+        "kda": [
+          8,
+          11,
+          42
+        ],
+        "damage_ocr": "3.74",
+        "damage_shown": 37000.0,
+        "true_tank_ocr": "22.845",
+        "true_tank_shown": 228000.0,
+        "champion": "amumu",
+        "icon_match_confidence": 0.8019,
+        "icon_match_top3": [
+          [
+            0.802,
+            "amumu"
+          ],
+          [
+            0.504,
+            "hwei"
+          ],
+          [
+            0.491,
+            "galio"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 20,
+        "true_tank_pct": 14,
+        "anchor_y": 794,
+        "kda_ocr": "95/10/14 604",
+        "kda": [
+          95,
+          10,
+          14
+        ],
+        "damage_ocr": "5.345",
+        "damage_shown": 53000.0,
+        "true_tank_ocr": "8.245",
+        "true_tank_shown": 82000.0,
+        "champion": "masteryi",
+        "icon_match_confidence": 0.6086,
+        "icon_match_top3": [
+          [
+            0.609,
+            "masteryi"
+          ],
+          [
+            0.478,
+            "zed"
+          ],
+          [
+            0.443,
+            "diana"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 18,
+        "true_tank_pct": 31,
+        "anchor_y": 895,
+        "kda_ocr": "9/9/33 724",
+        "kda": [
+          9,
+          9,
+          33
+        ],
+        "damage_ocr": "4.84",
+        "damage_shown": 48000.0,
+        "true_tank_ocr": "18.04",
+        "true_tank_shown": 180000.0,
+        "champion": "tahmkench",
+        "icon_match_confidence": 0.593,
+        "icon_match_top3": [
+          [
+            0.593,
+            "tahmkench"
+          ],
+          [
+            0.498,
+            "yorick"
+          ],
+          [
+            0.495,
+            "morgana"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 34,
+        "true_tank_pct": 10,
+        "anchor_y": 996,
+        "kda_ocr": "17/14/33 861",
+        "kda": [
+          17,
+          14,
+          33
+        ],
+        "damage_ocr": "8.945",
+        "damage_shown": 89000.0,
+        "true_tank_ocr": "5.645",
+        "true_tank_shown": 56000.0,
+        "champion": "brand",
+        "icon_match_confidence": 0.6352,
+        "icon_match_top3": [
+          [
+            0.635,
+            "brand"
+          ],
+          [
+            0.453,
+            "maokai"
+          ],
+          [
+            0.44,
+            "ksante"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "20:39",
+    "start_clock": null,
+    "team_kills_ocr": "67/52/164",
+    "team_kills": 67
+  },
+  {
+    "file": "2026-09-27/M03_743334C6361D99B9A8D5BDF7C0109802.png",
+    "day_folder": "2026-09-27",
+    "match": 3,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 21,
+        "true_tank_pct": 16,
+        "anchor_y": 500,
+        "kda_ocr": "72/10/47 7095",
+        "kda": [
+          72,
+          10,
+          47
+        ],
+        "damage_ocr": "3.945",
+        "damage_shown": 39000.0,
+        "true_tank_ocr": "6.745",
+        "true_tank_shown": 67000.0,
+        "champion": "aurelionsol",
+        "icon_match_confidence": 0.8115,
+        "icon_match_top3": [
+          [
+            0.811,
+            "aurelionsol"
+          ],
+          [
+            0.517,
+            "anivia"
+          ],
+          [
+            0.517,
+            "ryze"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 16,
+        "true_tank_pct": 13,
+        "anchor_y": 601,
+        "kda_ocr": "12/14/41 5935",
+        "kda": [
+          12,
+          14,
+          41
+        ],
+        "damage_ocr": "3.145",
+        "damage_shown": 31000.0,
+        "true_tank_ocr": "5.545",
+        "true_tank_shown": 55000.0,
+        "champion": "fizz",
+        "icon_match_confidence": 0.6153,
+        "icon_match_top3": [
+          [
+            0.615,
+            "fizz"
+          ],
+          [
+            0.526,
+            "pantheon"
+          ],
+          [
+            0.505,
+            "pyke"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 16,
+        "true_tank_pct": 50,
+        "anchor_y": 701,
+        "kda_ocr": "11/11/46 724",
+        "kda": [
+          11,
+          11,
+          46
+        ],
+        "damage_ocr": "2.945",
+        "damage_shown": 29000.0,
+        "true_tank_ocr": "20.645",
+        "true_tank_shown": 206000.0,
+        "champion": "malphite",
+        "icon_match_confidence": 0.8337,
+        "icon_match_top3": [
+          [
+            0.834,
+            "malphite"
+          ],
+          [
+            0.49,
+            "gangplank"
+          ],
+          [
+            0.485,
+            "mel"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "划水打野#51907",
+        "output_pct": 22,
+        "true_tank_pct": 10,
+        "anchor_y": 802,
+        "kda_ocr": "13/10/59 458",
+        "kda": [
+          13,
+          10,
+          59
+        ],
+        "damage_ocr": "4.14",
+        "damage_shown": 41000.0,
+        "true_tank_ocr": "4.34",
+        "true_tank_shown": 43000.0,
+        "champion": "jayce",
+        "icon_match_confidence": 0.7728,
+        "icon_match_top3": [
+          [
+            0.773,
+            "jayce"
+          ],
+          [
+            0.675,
+            "draven"
+          ],
+          [
+            0.631,
+            "lux"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 25,
+        "true_tank_pct": 10,
+        "anchor_y": 903,
+        "kda_ocr": "94/11/36 787",
+        "kda": [
+          94,
+          11,
+          36
+        ],
+        "damage_ocr": "4.74",
+        "damage_shown": 47000.0,
+        "true_tank_ocr": "4.14",
+        "true_tank_shown": 41000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.7964,
+        "icon_match_top3": [
+          [
+            0.796,
+            "caitlyn"
+          ],
+          [
+            0.47,
+            "maokai"
+          ],
+          [
+            0.461,
+            "velkoz"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "14:56",
+    "start_clock": null,
+    "team_kills_ocr": "33/56/229",
+    "team_kills": 33
+  },
+  {
+    "file": "2026-09-27/M04_B55C1D56D0E761FC882AB4DE54773BE8.png",
+    "day_folder": "2026-09-27",
+    "match": 4,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 13,
+        "true_tank_pct": 16,
+        "anchor_y": 521,
+        "kda_ocr": "4/6/34 645",
+        "kda": [
+          4,
+          6,
+          34
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "3.445",
+        "true_tank_shown": 34000.0,
+        "champion": "trundle",
+        "icon_match_confidence": 0.7496,
+        "icon_match_top3": [
+          [
+            0.75,
+            "trundle"
+          ],
+          [
+            0.551,
+            "maokai"
+          ],
+          [
+            0.524,
+            "ksante"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 12,
+        "true_tank_pct": 31,
+        "anchor_y": 622,
+        "kda_ocr": "32/7/29 650",
+        "kda": [
+          32,
+          7,
+          29
+        ],
+        "damage_ocr": "1.64",
+        "damage_shown": 16000.0,
+        "true_tank_ocr": "6.845",
+        "true_tank_shown": 68000.0,
+        "champion": "shen",
+        "icon_match_confidence": 0.6578,
+        "icon_match_top3": [
+          [
+            0.658,
+            "shen"
+          ],
+          [
+            0.476,
+            "maokai"
+          ],
+          [
+            0.42,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 26,
+        "true_tank_pct": 13,
+        "anchor_y": 722,
+        "kda_ocr": "19/5/17 795",
+        "kda": [
+          19,
+          5,
+          17
+        ],
+        "damage_ocr": "3.545",
+        "damage_shown": 35000.0,
+        "true_tank_ocr": "2.945",
+        "true_tank_shown": 29000.0,
+        "champion": "ryze",
+        "icon_match_confidence": 0.8032,
+        "icon_match_top3": [
+          [
+            0.803,
+            "ryze"
+          ],
+          [
+            0.607,
+            "jax"
+          ],
+          [
+            0.564,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 28,
+        "true_tank_pct": 32,
+        "anchor_y": 823,
+        "kda_ocr": "10/11/2922 866",
+        "kda": [
+          10,
+          11,
+          29
+        ],
+        "damage_ocr": "3.845",
+        "damage_shown": 38000.0,
+        "true_tank_ocr": "6.945",
+        "true_tank_shown": 69000.0,
+        "champion": "hecarim",
+        "icon_match_confidence": 0.7022,
+        "icon_match_top3": [
+          [
+            0.702,
+            "hecarim"
+          ],
+          [
+            0.453,
+            "maokai"
+          ],
+          [
+            0.432,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 22,
+        "true_tank_pct": 8,
+        "anchor_y": 924,
+        "kda_ocr": "14/6/18 646",
+        "kda": [
+          14,
+          6,
+          18
+        ],
+        "damage_ocr": "3.045",
+        "damage_shown": 30000.0,
+        "true_tank_ocr": "1.84",
+        "true_tank_shown": 18000.0,
+        "champion": "lucian",
+        "icon_match_confidence": 0.5936,
+        "icon_match_top3": [
+          [
+            0.594,
+            "lucian"
+          ],
+          [
+            0.447,
+            "ksante"
+          ],
+          [
+            0.44,
+            "maokai"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 100,
+    "duration": "12:45",
+    "start_clock": null,
+    "team_kills_ocr": "43/35/120",
+    "team_kills": 43
+  },
+  {
+    "file": "2026-09-27/M05_A4064B401D8987A6691D71BF7CFF24D5.png",
+    "day_folder": "2026-09-27",
+    "match": 5,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 11,
+        "true_tank_pct": 15,
+        "anchor_y": 480,
+        "kda_ocr": "4/13/2970 4897",
+        "kda": [
+          4,
+          13,
+          29
+        ],
+        "damage_ocr": "1.64",
+        "damage_shown": 16000.0,
+        "true_tank_ocr": "6.245",
+        "true_tank_shown": 62000.0,
+        "champion": "maokai",
+        "icon_match_confidence": 0.689,
+        "icon_match_top3": [
+          [
+            0.689,
+            "maokai"
+          ],
+          [
+            0.491,
+            "samira"
+          ],
+          [
+            0.46,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 8,
+        "true_tank_pct": 8,
+        "anchor_y": 581,
+        "kda_ocr": "4/7/33 5335",
+        "kda": [
+          4,
+          7,
+          33
+        ],
+        "damage_ocr": "1.14",
+        "damage_shown": 11000.0,
+        "true_tank_ocr": "3.345",
+        "true_tank_shown": 33000.0,
+        "champion": "renata",
+        "icon_match_confidence": 0.5207,
+        "icon_match_top3": [
+          [
+            0.521,
+            "renata"
+          ],
+          [
+            0.425,
+            "malphite"
+          ],
+          [
+            0.412,
+            "sona"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 25,
+        "true_tank_pct": 6,
+        "anchor_y": 681,
+        "kda_ocr": "8/5/30 7416",
+        "kda": [
+          8,
+          5,
+          30
+        ],
+        "damage_ocr": "3.645",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "2.545",
+        "true_tank_shown": 25000.0,
+        "champion": "jhin",
+        "icon_match_confidence": 0.8041,
+        "icon_match_top3": [
+          [
+            0.804,
+            "jhin"
+          ],
+          [
+            0.616,
+            "morgana"
+          ],
+          [
+            0.611,
+            "orianna"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 11,
+        "true_tank_pct": 53,
+        "anchor_y": 782,
+        "kda_ocr": "5/9/35 6901",
+        "kda": [
+          5,
+          9,
+          35
+        ],
+        "damage_ocr": "1.54",
+        "damage_shown": 15000.0,
+        "true_tank_ocr": "22.545",
+        "true_tank_shown": 225000.0,
+        "champion": "alistar",
+        "icon_match_confidence": 0.6011,
+        "icon_match_top3": [
+          [
+            0.601,
+            "alistar"
+          ],
+          [
+            0.413,
+            "malphite"
+          ],
+          [
+            0.349,
+            "khazix"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 45,
+        "true_tank_pct": 19,
+        "anchor_y": 883,
+        "kda_ocr": "95/8/14 8670",
+        "kda": [
+          95,
+          8,
+          14
+        ],
+        "damage_ocr": "6.445",
+        "damage_shown": 64000.0,
+        "true_tank_ocr": "7.95",
+        "true_tank_shown": 79000.0,
+        "champion": "ezreal",
+        "icon_match_confidence": 0.6903,
+        "icon_match_top3": [
+          [
+            0.69,
+            "ezreal"
+          ],
+          [
+            0.554,
+            "singed"
+          ],
+          [
+            0.528,
+            "swain"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 101,
+    "duration": "13:47",
+    "start_clock": null,
+    "team_kills_ocr": "46/42/132",
+    "team_kills": 46
+  },
+  {
+    "file": "2026-09-27/M06_11756AC10D8093CB872F731710BA841D.png",
+    "day_folder": "2026-09-27",
+    "match": 6,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 16,
+        "true_tank_pct": 46,
+        "anchor_y": 519,
+        "kda_ocr": "7/14/29 7050",
+        "kda": [
+          7,
+          14,
+          29
+        ],
+        "damage_ocr": "4.045",
+        "damage_shown": 40000.0,
+        "true_tank_ocr": "18.84",
+        "true_tank_shown": 188000.0,
+        "champion": "volibear",
+        "icon_match_confidence": 0.757,
+        "icon_match_top3": [
+          [
+            0.757,
+            "volibear"
+          ],
+          [
+            0.619,
+            "locke"
+          ],
+          [
+            0.616,
+            "jax"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 13,
+        "true_tank_pct": 9,
+        "anchor_y": 620,
+        "kda_ocr": "8/10/39 589",
+        "kda": [
+          8,
+          10,
+          39
+        ],
+        "damage_ocr": "3.345",
+        "damage_shown": 33000.0,
+        "true_tank_ocr": "3.545",
+        "true_tank_shown": 35000.0,
+        "champion": "senna",
+        "icon_match_confidence": 0.7764,
+        "icon_match_top3": [
+          [
+            0.776,
+            "senna"
+          ],
+          [
+            0.518,
+            "poppy"
+          ],
+          [
+            0.514,
+            "jax"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 27,
+        "true_tank_pct": 13,
+        "anchor_y": 720,
+        "kda_ocr": "13/8/9791 751",
+        "kda": [
+          13,
+          8,
+          97
+        ],
+        "damage_ocr": "6.745",
+        "damage_shown": 67000.0,
+        "true_tank_ocr": "5.25",
+        "true_tank_shown": 52000.0,
+        "champion": "aphelios",
+        "icon_match_confidence": 0.7722,
+        "icon_match_top3": [
+          [
+            0.772,
+            "aphelios"
+          ],
+          [
+            0.633,
+            "jhin"
+          ],
+          [
+            0.606,
+            "morgana"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 21,
+        "true_tank_pct": 23,
+        "anchor_y": 821,
+        "kda_ocr": "13/10/29 45",
+        "kda": [
+          13,
+          10,
+          29
+        ],
+        "damage_ocr": "5.345",
+        "damage_shown": 53000.0,
+        "true_tank_ocr": "9.45",
+        "true_tank_shown": 94000.0,
+        "champion": "galio",
+        "icon_match_confidence": 0.6728,
+        "icon_match_top3": [
+          [
+            0.673,
+            "galio"
+          ],
+          [
+            0.505,
+            "samira"
+          ],
+          [
+            0.469,
+            "hwei"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 22,
+        "true_tank_pct": 9,
+        "anchor_y": 922,
+        "kda_ocr": "15/12/28 701",
+        "kda": [
+          15,
+          12,
+          28
+        ],
+        "damage_ocr": "5.645",
+        "damage_shown": 56000.0,
+        "true_tank_ocr": "3.94",
+        "true_tank_shown": 39000.0,
+        "champion": "annie",
+        "icon_match_confidence": 0.764,
+        "icon_match_top3": [
+          [
+            0.764,
+            "annie"
+          ],
+          [
+            0.588,
+            "missfortune"
+          ],
+          [
+            0.577,
+            "leona"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 99,
+    "true_tank_pct_sum": 100,
+    "duration": "17:34",
+    "start_clock": null,
+    "team_kills_ocr": "56/54/146",
+    "team_kills": 56
+  },
+  {
+    "file": "2026-09-27/M07_42E42D977C2BB8359D24DA8BCB01E33B.png",
+    "day_folder": "2026-09-27",
+    "match": 7,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 3,
+        "true_tank_pct": 9,
+        "anchor_y": 525,
+        "kda_ocr": "1/7/42 5774",
+        "kda": [
+          1,
+          7,
+          42
+        ],
+        "damage_ocr": "8.4k",
+        "damage_shown": 8400.0,
+        "true_tank_ocr": "5.445",
+        "true_tank_shown": 54000.0,
+        "champion": "yuumi",
+        "icon_match_confidence": 0.538,
+        "icon_match_top3": [
+          [
+            0.538,
+            "yuumi"
+          ],
+          [
+            0.44,
+            "soraka"
+          ],
+          [
+            0.435,
+            "twistedfate"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "羊村头目慢羊羊#24440",
+        "output_pct": 23,
+        "true_tank_pct": 21,
+        "anchor_y": 626,
+        "kda_ocr": "11/16/18 685",
+        "kda": [
+          11,
+          16,
+          18
+        ],
+        "damage_ocr": "6.345",
+        "damage_shown": 63000.0,
+        "true_tank_ocr": "13.14",
+        "true_tank_shown": 131000.0,
+        "champion": "kayn",
+        "icon_match_confidence": 0.6793,
+        "icon_match_top3": [
+          [
+            0.679,
+            "kayn"
+          ],
+          [
+            0.47,
+            "senna"
+          ],
+          [
+            0.447,
+            "maokai"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 18,
+        "true_tank_pct": 8,
+        "anchor_y": 726,
+        "kda_ocr": "12/8/90 641",
+        "kda": [
+          12,
+          8,
+          90
+        ],
+        "damage_ocr": "5.045",
+        "damage_shown": 50000.0,
+        "true_tank_ocr": "5.14",
+        "true_tank_shown": 51000.0,
+        "champion": "viktor",
+        "icon_match_confidence": 0.8044,
+        "icon_match_top3": [
+          [
+            0.804,
+            "viktor"
+          ],
+          [
+            0.65,
+            "ryze"
+          ],
+          [
+            0.61,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 17,
+        "true_tank_pct": 8,
+        "anchor_y": 827,
+        "kda_ocr": "8/13/19 600",
+        "kda": [
+          8,
+          13,
+          19
+        ],
+        "damage_ocr": "4.74",
+        "damage_shown": 47000.0,
+        "true_tank_ocr": "5.14",
+        "true_tank_shown": 51000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.7702,
+        "icon_match_top3": [
+          [
+            0.77,
+            "caitlyn"
+          ],
+          [
+            0.486,
+            "lillia"
+          ],
+          [
+            0.481,
+            "maokai"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 39,
+        "true_tank_pct": 53,
+        "anchor_y": 928,
+        "kda_ocr": "16/8/261000",
+        "kda": [
+          16,
+          8,
+          26
+        ],
+        "damage_ocr": "10.74",
+        "damage_shown": 107000.0,
+        "true_tank_ocr": "32.945",
+        "true_tank_shown": 329000.0,
+        "champion": "aatrox",
+        "icon_match_confidence": 0.6966,
+        "icon_match_top3": [
+          [
+            0.697,
+            "aatrox"
+          ],
+          [
+            0.452,
+            "maokai"
+          ],
+          [
+            0.438,
+            "malphite"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 99,
+    "duration": "18:43",
+    "start_clock": null,
+    "team_kills_ocr": "48/52/125",
+    "team_kills": 48
+  },
+  {
+    "file": "2026-09-27/M08_75BBD059E1670203CB12CE552A1101A7.png",
+    "day_folder": "2026-09-27",
+    "match": 8,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "非六人名单",
+        "output_pct": 17,
+        "true_tank_pct": 8,
+        "anchor_y": 499,
+        "kda_ocr": "8/12/95 588",
+        "kda": [
+          8,
+          12,
+          95
+        ],
+        "damage_ocr": "2.345",
+        "damage_shown": 23000.0,
+        "true_tank_ocr": "3.045",
+        "true_tank_shown": 30000.0,
+        "champion": "caitlyn",
+        "icon_match_confidence": 0.7702,
+        "icon_match_top3": [
+          [
+            0.77,
+            "caitlyn"
+          ],
+          [
+            0.486,
+            "lillia"
+          ],
+          [
+            0.481,
+            "maokai"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 9,
+        "true_tank_pct": 44,
+        "anchor_y": 600,
+        "kda_ocr": "6/12/30 6942",
+        "kda": [
+          6,
+          12,
+          30
+        ],
+        "damage_ocr": "1.34",
+        "damage_shown": 13000.0,
+        "true_tank_ocr": "15.64",
+        "true_tank_shown": 156000.0,
+        "champion": "nunu",
+        "icon_match_confidence": 0.5989,
+        "icon_match_top3": [
+          [
+            0.599,
+            "nunu"
+          ],
+          [
+            0.431,
+            "fiora"
+          ],
+          [
+            0.424,
+            "sylas"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "划水打野#51907",
+        "output_pct": 30,
+        "true_tank_pct": 7,
+        "anchor_y": 700,
+        "kda_ocr": "17/8/23 751",
+        "kda": [
+          17,
+          8,
+          23
+        ],
+        "damage_ocr": "4.14",
+        "damage_shown": 41000.0,
+        "true_tank_ocr": "2.545",
+        "true_tank_shown": 25000.0,
+        "champion": "kaisa",
+        "icon_match_confidence": 0.6961,
+        "icon_match_top3": [
+          [
+            0.696,
+            "kaisa"
+          ],
+          [
+            0.571,
+            "morgana"
+          ],
+          [
+            0.569,
+            "vayne"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 26,
+        "true_tank_pct": 15,
+        "anchor_y": 801,
+        "kda_ocr": "15/10/19 45",
+        "kda": [
+          15,
+          10,
+          19
+        ],
+        "damage_ocr": "3.645",
+        "damage_shown": 36000.0,
+        "true_tank_ocr": "5.445",
+        "true_tank_shown": 54000.0,
+        "champion": "khazix",
+        "icon_match_confidence": 0.8232,
+        "icon_match_top3": [
+          [
+            0.823,
+            "khazix"
+          ],
+          [
+            0.451,
+            "maokai"
+          ],
+          [
+            0.441,
+            "nocturne"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 18,
+        "true_tank_pct": 26,
+        "anchor_y": 902,
+        "kda_ocr": "12/12/91 620",
+        "kda": [
+          12,
+          12,
+          91
+        ],
+        "damage_ocr": "2.545",
+        "damage_shown": 25000.0,
+        "true_tank_ocr": "9.145",
+        "true_tank_shown": 91000.0,
+        "champion": "mordekaiser",
+        "icon_match_confidence": 0.6731,
+        "icon_match_top3": [
+          [
+            0.673,
+            "mordekaiser"
+          ],
+          [
+            0.509,
+            "maokai"
+          ],
+          [
+            0.472,
+            "samira"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 100,
+    "true_tank_pct_sum": 100,
+    "duration": "16:07",
+    "start_clock": null,
+    "team_kills_ocr": "58/54/118",
+    "team_kills": 58
+  },
+  {
+    "file": "2026-09-27/M09_0F15D07DC0774B789A83C239D55230D4.png",
+    "day_folder": "2026-09-27",
+    "match": 9,
+    "fixed_five": false,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 10,
+        "true_tank_pct": 10,
+        "anchor_y": 499,
+        "kda_ocr": "5/13/95 5279",
+        "kda": [
+          5,
+          13,
+          95
+        ],
+        "damage_ocr": "2.045",
+        "damage_shown": 20000.0,
+        "true_tank_ocr": "5.34",
+        "true_tank_shown": 53000.0,
+        "champion": "malzahar",
+        "icon_match_confidence": 0.7679,
+        "icon_match_top3": [
+          [
+            0.768,
+            "malzahar"
+          ],
+          [
+            0.558,
+            "aphelios"
+          ],
+          [
+            0.542,
+            "kennen"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "划水打野#51907",
+        "output_pct": 18,
+        "true_tank_pct": 9,
+        "anchor_y": 600,
+        "kda_ocr": "13/13/29 5599",
+        "kda": [
+          13,
+          13,
+          29
+        ],
+        "damage_ocr": "3.545",
+        "damage_shown": 35000.0,
+        "true_tank_ocr": "4.645",
+        "true_tank_shown": 46000.0,
+        "champion": "twitch",
+        "icon_match_confidence": 0.6857,
+        "icon_match_top3": [
+          [
+            0.686,
+            "twitch"
+          ],
+          [
+            0.453,
+            "locke"
+          ],
+          [
+            0.43,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 33,
+        "true_tank_pct": 15,
+        "anchor_y": 700,
+        "kda_ocr": "79/14/91 7753",
+        "kda": [
+          79,
+          14,
+          91
+        ],
+        "damage_ocr": "6.645",
+        "damage_shown": 66000.0,
+        "true_tank_ocr": "7.75",
+        "true_tank_shown": 77000.0,
+        "champion": "zed",
+        "icon_match_confidence": 0.702,
+        "icon_match_top3": [
+          [
+            0.702,
+            "zed"
+          ],
+          [
+            0.576,
+            "azir"
+          ],
+          [
+            0.522,
+            "kayle"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "东冬咚胨#49567",
+        "output_pct": 21,
+        "true_tank_pct": 32,
+        "anchor_y": 801,
+        "kda_ocr": "14/9/9297 7788",
+        "kda": [
+          14,
+          9,
+          92
+        ],
+        "damage_ocr": "4.34",
+        "damage_shown": 43000.0,
+        "true_tank_ocr": "16.94",
+        "true_tank_shown": 169000.0,
+        "champion": "yasuo",
+        "icon_match_confidence": 0.7156,
+        "icon_match_top3": [
+          [
+            0.716,
+            "yasuo"
+          ],
+          [
+            0.49,
+            "milio"
+          ],
+          [
+            0.468,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "非六人名单",
+        "output_pct": 19,
+        "true_tank_pct": 34,
+        "anchor_y": 902,
+        "kda_ocr": "14/12/90 6679",
+        "kda": [
+          14,
+          12,
+          90
+        ],
+        "damage_ocr": "3.845",
+        "damage_shown": 38000.0,
+        "true_tank_ocr": "17.64",
+        "true_tank_shown": 176000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.7594,
+        "icon_match_top3": [
+          [
+            0.759,
+            "sett"
+          ],
+          [
+            0.654,
+            "missfortune"
+          ],
+          [
+            0.593,
+            "taliyah"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 100,
+    "duration": "18:13",
+    "start_clock": null,
+    "team_kills_ocr": "68/61/122",
+    "team_kills": 68
+  },
+  {
+    "file": "2026-09-27/M10_D40857DCC36FBB5B8D7715B129A1AD08.png",
+    "day_folder": "2026-09-27",
+    "match": 10,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 9,
+        "true_tank_pct": 21,
+        "anchor_y": 518,
+        "kda_ocr": "6/6/34 6333",
+        "kda": [
+          6,
+          6,
+          34
+        ],
+        "damage_ocr": "1.74",
+        "damage_shown": 17000.0,
+        "true_tank_ocr": "8.245",
+        "true_tank_shown": 82000.0,
+        "champion": "trundle",
+        "icon_match_confidence": 0.7163,
+        "icon_match_top3": [
+          [
+            0.716,
+            "trundle"
+          ],
+          [
+            0.579,
+            "samira"
+          ],
+          [
+            0.562,
+            "maokai"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "划水打野#51907",
+        "output_pct": 24,
+        "true_tank_pct": 12,
+        "anchor_y": 619,
+        "kda_ocr": "73296",
+        "kda": null,
+        "damage_ocr": "4.44",
+        "damage_shown": 44000.0,
+        "true_tank_ocr": "4.54",
+        "true_tank_shown": 45000.0,
+        "champion": "lillia",
+        "icon_match_confidence": 0.7874,
+        "icon_match_top3": [
+          [
+            0.787,
+            "lillia"
+          ],
+          [
+            0.648,
+            "morgana"
+          ],
+          [
+            0.631,
+            "swain"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 19,
+        "true_tank_pct": 31,
+        "anchor_y": 719,
+        "kda_ocr": "6/8/95 7115",
+        "kda": [
+          6,
+          8,
+          95
+        ],
+        "damage_ocr": "3.445",
+        "damage_shown": 34000.0,
+        "true_tank_ocr": "12.24",
+        "true_tank_shown": 122000.0,
+        "champion": "sett",
+        "icon_match_confidence": 0.7506,
+        "icon_match_top3": [
+          [
+            0.751,
+            "sett"
+          ],
+          [
+            0.657,
+            "missfortune"
+          ],
+          [
+            0.598,
+            "taliyah"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 24,
+        "true_tank_pct": 28,
+        "anchor_y": 820,
+        "kda_ocr": "13/11/92 786",
+        "kda": [
+          13,
+          11,
+          92
+        ],
+        "damage_ocr": "4.34",
+        "damage_shown": 43000.0,
+        "true_tank_ocr": "11.14",
+        "true_tank_shown": 111000.0,
+        "champion": "yasuo",
+        "icon_match_confidence": 0.729,
+        "icon_match_top3": [
+          [
+            0.729,
+            "yasuo"
+          ],
+          [
+            0.47,
+            "milio"
+          ],
+          [
+            0.444,
+            "volibear"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 25,
+        "true_tank_pct": 8,
+        "anchor_y": 921,
+        "kda_ocr": "17/10/25 707",
+        "kda": [
+          17,
+          10,
+          25
+        ],
+        "damage_ocr": "4.54",
+        "damage_shown": 45000.0,
+        "true_tank_ocr": "3.34",
+        "true_tank_shown": 33000.0,
+        "champion": "jayce",
+        "icon_match_confidence": 0.7827,
+        "icon_match_top3": [
+          [
+            0.783,
+            "jayce"
+          ],
+          [
+            0.636,
+            "draven"
+          ],
+          [
+            0.591,
+            "zyra"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 100,
+    "duration": "14:15",
+    "start_clock": null,
+    "team_kills_ocr": "53/42/133",
+    "team_kills": 53
+  },
+  {
+    "file": "2026-09-27/M11_3147B5F5FAF347B59B2835E506608F27.png",
+    "day_folder": "2026-09-27",
+    "match": 11,
+    "fixed_five": true,
+    "rows": [
+      {
+        "row": 1,
+        "player": "丨云胡丨不喜丨#24728",
+        "output_pct": 11,
+        "true_tank_pct": 15,
+        "anchor_y": 509,
+        "kda_ocr": "10/70/1323 4900",
+        "kda": [
+          10,
+          70,
+          13
+        ],
+        "damage_ocr": "6.145",
+        "damage_shown": 61000.0,
+        "true_tank_ocr": "11.74",
+        "true_tank_shown": 117000.0,
+        "champion": "sion",
+        "icon_match_confidence": 0.6903,
+        "icon_match_top3": [
+          [
+            0.69,
+            "sion"
+          ],
+          [
+            0.49,
+            "maokai"
+          ],
+          [
+            0.465,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 2,
+        "player": "划水打野#51907",
+        "output_pct": 15,
+        "true_tank_pct": 9,
+        "anchor_y": 610,
+        "kda_ocr": "9/11/91 529",
+        "kda": [
+          9,
+          11,
+          91
+        ],
+        "damage_ocr": "8.545",
+        "damage_shown": 85000.0,
+        "true_tank_ocr": "7.35",
+        "true_tank_shown": 73000.0,
+        "champion": "veigar",
+        "icon_match_confidence": 0.5414,
+        "icon_match_top3": [
+          [
+            0.541,
+            "veigar"
+          ],
+          [
+            0.496,
+            "maokai"
+          ],
+          [
+            0.444,
+            "samira"
+          ]
+        ]
+      },
+      {
+        "row": 3,
+        "player": "Premieresape丶Li#45121",
+        "output_pct": 14,
+        "true_tank_pct": 34,
+        "anchor_y": 710,
+        "kda_ocr": "9/11/19 602",
+        "kda": [
+          9,
+          11,
+          19
+        ],
+        "damage_ocr": "7.945",
+        "damage_shown": 79000.0,
+        "true_tank_ocr": "26.945",
+        "true_tank_shown": 269000.0,
+        "champion": "shen",
+        "icon_match_confidence": 0.6604,
+        "icon_match_top3": [
+          [
+            0.66,
+            "shen"
+          ],
+          [
+            0.476,
+            "maokai"
+          ],
+          [
+            0.42,
+            "trundle"
+          ]
+        ]
+      },
+      {
+        "row": 4,
+        "player": "Let325544#73173",
+        "output_pct": 23,
+        "true_tank_pct": 22,
+        "anchor_y": 811,
+        "kda_ocr": "9/19/10 5794",
+        "kda": [
+          9,
+          19,
+          10
+        ],
+        "damage_ocr": "13.14",
+        "damage_shown": 131000.0,
+        "true_tank_ocr": "17.44",
+        "true_tank_shown": 174000.0,
+        "champion": "masteryi",
+        "icon_match_confidence": 0.6042,
+        "icon_match_top3": [
+          [
+            0.604,
+            "masteryi"
+          ],
+          [
+            0.516,
+            "diana"
+          ],
+          [
+            0.496,
+            "riven"
+          ]
+        ]
+      },
+      {
+        "row": 5,
+        "player": "东冬咚胨#49567",
+        "output_pct": 38,
+        "true_tank_pct": 21,
+        "anchor_y": 912,
+        "kda_ocr": "8/15/91 8577",
+        "kda": [
+          8,
+          15,
+          91
+        ],
+        "damage_ocr": "22.14",
+        "damage_shown": 221000.0,
+        "true_tank_ocr": "16.94",
+        "true_tank_shown": 169000.0,
+        "champion": "shyvana",
+        "icon_match_confidence": 0.5483,
+        "icon_match_top3": [
+          [
+            0.548,
+            "shyvana"
+          ],
+          [
+            0.42,
+            "aphelios"
+          ],
+          [
+            0.396,
+            "yorick"
+          ]
+        ]
+      }
+    ],
+    "output_pct_sum": 101,
+    "true_tank_pct_sum": 101,
+    "duration": "20:33",
+    "start_clock": null,
+    "team_kills_ocr": "38/76/84",
+    "team_kills": 38
+  }
+]
