@@ -1,5 +1,5 @@
 """Recompute four game days with HD-RATING-2.1 from transcriptions and frozen hero table."""
-import json,csv,statistics,math,hashlib
+import json,csv,statistics,math,hashlib,subprocess,sys
 from collections import defaultdict
 from pathlib import Path
 P=Path(__file__).resolve().parent
@@ -76,9 +76,10 @@ for day in sorted({r['游戏日'] for r in rows}):
                  '平均输出分':mean('输出分O'),'平均承伤分':mean('承伤分T'),
                  '平均参团分':mean('参团分'),'平均死亡分':mean('死亡分'),'九方案':variants})
  same_matches=len({tuple(sorted(r['场次'] for r in subset if r['玩家']==v['玩家'])) for v in totals})==1
- totals.sort(key=(lambda x:-x['日分']) if same_matches else (lambda x:(-x['场数'],-x['日分'])))
+ totals.sort(key=lambda x:-x['日分'])
  for rank,v in enumerate(totals,1):
-  v['名次']=rank if same_matches else ''
+  # When the sets of games differ this is only a displayed score ordering.
+  v['名次']=rank
   if same_matches:
    places=[1+sum(other['九方案'][key]>v['九方案'][key] for other in totals) for key in v['九方案']]
    v['九方案名次范围']=f'{min(places)}～{max(places)}'
@@ -90,11 +91,11 @@ for day in sorted({r['游戏日'] for r in rows}):
         '**本场环境调整**：先将己方五名玩家（含名单外队友）各自的分均输出、分均真实承伤除以对应英雄参考速率，分别取五个倍率的中位数，并各与 1 取大值作为环境系数。个人原倍率除以对应系数后参与发挥分计算；本场占比仍使用截图显示值。系数与调整前后倍率见逐场 CSV。',
         '**参考**：ARAMKit 全分段 173 名英雄的同版本页面冻结于 '+REF['fetched_at_utc']+'；站点未统一展示总样本量。第三方“自我减免”和桌面端“自我减伤”作同义映射，**跨站承伤口径待核实**。',
         f'**样本**：{len([x for x in G if x["day_folder"]==day])} 场，名单队员 {len(subset)} 条单局记录；个人记录完整评分率 100%。04:00 开局归属以所给截图目录为准，未显示钟点的截图不补造精确时间。',
-        '', f'**比较范围**：{"本日参评者参与完全相同的比赛，可以展示同场名次。" if same_matches else "参评者的比赛集合不同，仅列出各自日分并按参赛场数展示，不颁发跨场次的全天名次。"}',
-        '', '| '+('同场名次 | ' if same_matches else '')+'队员 | 日分 | 场数 | '+('九方案名次范围 | ' if same_matches else '')+'输出分 | 承伤分 | 参团分 | 死亡分 | 占比：输出 / 真实承伤 |',
-        '| '+('---: | ' if same_matches else '')+'--- | ---: | ---: | '+('---: | ' if same_matches else '')+'---: | ---: | ---: | ---: | ---: |']
+        '', f'**比较范围**：{"本日参评者参与完全相同的比赛，可作同场比较。" if same_matches else "参评者的比赛集合不同，下列序号只表示个人日分大小，不代表同条件实力名次；请连同参赛场数阅读。"}',
+        '', '| '+('同场名次' if same_matches else '日分序位')+' | 队员 | 日分 | 场数 | '+('九方案名次范围 | ' if same_matches else '')+'输出分 | 承伤分 | 参团分 | 死亡分 | 占比：输出 / 真实承伤 |',
+        '| ---: | --- | ---: | ---: | '+('---: | ' if same_matches else '')+'---: | ---: | ---: | ---: | ---: |']
  for v in totals:
-  lines.append(f"| {str(v['名次'])+' | ' if same_matches else ''}{v['玩家']} | {v['日分']:.1f} | {v['场数']} | {str(v['九方案名次范围'])+' | ' if same_matches else ''}{v['平均输出分']:.1f} | {v['平均承伤分']:.1f} | {v['平均参团分']:.1f} | {v['平均死亡分']:.1f} | {v['团队输出占比%']:.1f}% / {v['团队真实承伤占比%']:.1f}% |")
+  lines.append(f"| {v['名次']} | {v['玩家']} | {v['日分']:.1f} | {v['场数']} | {str(v['九方案名次范围'])+' | ' if same_matches else ''}{v['平均输出分']:.1f} | {v['平均承伤分']:.1f} | {v['平均参团分']:.1f} | {v['平均死亡分']:.1f} | {v['团队输出占比%']:.1f}% / {v['团队真实承伤占比%']:.1f}% |")
  if day=='2026-09-27':
   shared=[r for r in subset if r['场次'] in ('M10','M11')]
   assert len(shared)==10 and len({r['玩家'] for r in shared})==5
@@ -107,7 +108,7 @@ for day in sorted({r['游戏日'] for r in rows}):
    common.append((name,s[0]['单局综合分'],s[1]['单局综合分']))
   for name,a,c in sorted(common,key=lambda x:-(x[1]+x[2])):
    lines.append(f'| {name} | {a:.1f} | {c:.1f} | {(a+c)/2:.1f} |')
- lines+=['','**阅读方式**：输出／承伤的调整后倍率或参团倍率等于 1 时，发挥分为 50，不是及格线；本场占比 20% 是数学参照，不是输出或承伤的英雄门槛。日分是每位队员当天参与的所有合格单局的等权平均；参赛场次不一致时不能授予全天第 1 名。九方案名次范围只在同场比较时展示，不是统计置信区间。',
+ lines+=['','**阅读方式**：输出／承伤的调整后倍率或参团倍率等于 1 时，发挥分为 50，不是及格线；本场占比 20% 是数学参照，不是输出或承伤的英雄门槛。日分是每位队员当天参与的所有合格单局的等权平均；参赛场次不一致时分数序位不代表同条件实力名次。九方案名次范围只在同场比较时展示，不是统计置信区间。',
          '','**核对方法**：打开 [逐场评分明细](逐场评分明细_v2.1.csv) 查看英雄、五人中位数环境系数、调整前后倍率、原始显示值、占比、时长、击杀和九组参数分数。单局 `S＝0.70×(wO×O＋wT×T)＋0.20×参团分＋0.10×死亡分`。英雄参考见 [冻结快照](../../../references/aramkit_v16.19_全分段_2026-09-28.json)，定义见[评分标准](../../../docs/海斗日评与月评评分标准.md)。','',
          '## 逐场截图','', '| 场次 | 己方名单人数 | 时长 | 参评人数 | 截图 |','| --- | ---: | ---: | ---: | --- |']
  for g in [v for v in G if v['day_folder']==day]:
@@ -121,3 +122,5 @@ refdir=BASE/'references';refdir.mkdir(exist_ok=True)
 (refdir/'aramkit_v16.19_全分段_2026-09-28.json').write_text(json.dumps(REF,ensure_ascii=False,indent=2),encoding='utf-8')
 (refdir/'英雄基准_中位数.json').write_text(json.dumps({'英雄数':len(R),'参考输出分均中位数':MO,'参考真实承伤分均中位数':MT,'英雄列表':sorted(R)},ensure_ascii=False,indent=2),encoding='utf-8')
 print('MO/MT',MO,MT,'rows',len(rows))
+# Produce role-aware, ranked reading cards from the just-written detail CSVs.
+subprocess.run([sys.executable, str(P/'build_summary_cards.py')], check=True)
